@@ -9,6 +9,9 @@ import java.util.Queue;
 /**
  * 二叉树的层次遍历 II 
  * https://leetcode-cn.com/submissions/detail/2711416/
+ *
+ * [Solution]
+ * https://www.cnblogs.com/theskulls/p/5126456.html
  */
 public class Test22 {
 
