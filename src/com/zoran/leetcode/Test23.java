@@ -31,7 +31,8 @@ public class Test23 {
 			nextNode = tmp;
 			right = middle/2;
 		}
-
+		
+		return root;
 	}
 
 	public  TreeNode Nice_sortedArrayToBST(int[] nums) {  
