@@ -36,9 +36,11 @@ public class Test27 {
 
 		List<List<Integer>> list = new ArrayList<>();
 		List<Integer> previousList = new ArrayList<>();
+		List<Integer> currentList = new ArrayList<>();
 		for(int i = 1; i <= numRows; i++) {
-			previousList = generateItem(previousList, i);
-			list.add(previousList);
+			currentList = generateItem(previousList, i);
+			previousList = currentList;
+			list.add(currentList);
 		}
 
 		return list;
