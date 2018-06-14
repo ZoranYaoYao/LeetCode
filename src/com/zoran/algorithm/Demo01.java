@@ -33,7 +33,7 @@ public class Demo01 {
 				count--;
 				tmp = 0;
 			} else {
-//				pre.next = iterator; //问题点: 自身的next 指向自己,自己形成环!!
+//				pre.next = iterator; //问题点: 自身的next 指向自己,自己形成环!! Debug 查看,可以看到对象实例的引用关系, id=18 next -> id=18
 				pre = iterator;
 			}
 
