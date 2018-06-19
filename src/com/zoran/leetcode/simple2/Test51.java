@@ -1,4 +1,7 @@
 package com.zoran.leetcode.simple2;
+
+import java.util.HashMap;
+
 /**
  * ´æÔÚÖØ¸´ÔªËØ II
  * https://leetcode-cn.com/submissions/detail/3276809/
