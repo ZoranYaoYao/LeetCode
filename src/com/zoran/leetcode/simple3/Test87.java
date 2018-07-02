@@ -73,4 +73,3 @@ public class Test87 {
 		return first;
 	}
 }
-}
