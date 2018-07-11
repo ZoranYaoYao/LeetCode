@@ -1,5 +1,12 @@
 package com.zoran.leetcode.simple4;
 
+/**
+ * √‹‘ø∏Ò ΩªØ
+ * https://leetcode-cn.com/submissions/detail/4036270/
+ * 
+ * [Solution] Nice-algorithm
+ * https://blog.csdn.net/MebiuW/article/details/54409682
+ */
 public class Test105 {
 	
 	public static void main(String[] args) {
