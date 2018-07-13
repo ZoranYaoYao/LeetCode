@@ -9,6 +9,15 @@ import com.zoran.leetcode.simple3.Test90.TreeNode;
 public class NodeTest {
 
 	public static void main(String[] args) {
+		/**字符转 列表*/
+        List<Character> list1 = new ArrayList<Character>( Arrays.asList('q','w','e','r','t','y','u','i','o','p'));
+        
+        /**数组快速转换成字符串格式*/
+		String[] items = {"Hello","Alaska","Dad","Peace"};
+		System.out.println(Arrays.toString(items));
+	}
+	
+	public void nodeObject() {
 		//[10,5,-3,3,2,null,11,3,-2,null,1]
 		TreeNode root = new TreeNode(10);
 		TreeNode item1 = new TreeNode(5); root.left = item1;
@@ -24,13 +33,6 @@ public class NodeTest {
 		
 		TreeNode item8 = new TreeNode(1); item4.right = item8;
 //		System.out.println(pathSum(root, 8));
-		
-		/**字符转 列表*/
-        List<Character> list1 = new ArrayList<Character>( Arrays.asList('q','w','e','r','t','y','u','i','o','p'));
-        
-        /**数组快速转换成字符串格式*/
-		String[] items = {"Hello","Alaska","Dad","Peace"};
-		System.out.println(Arrays.toString(items));
 	}
 	
 	//     Definition for a binary tree node.
