@@ -22,6 +22,7 @@ public class Test179 {
 		}
 		
 		helper(result, S.toCharArray(), 0);
+        return result;
 	}
 
 	//递归处理问题
