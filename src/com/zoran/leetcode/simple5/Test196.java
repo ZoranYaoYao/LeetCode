@@ -2,7 +2,10 @@ package com.zoran.leetcode.simple5;
 
 /**
  * 859. 亲密字符串
- * https://leetcode-cn.com/problems/buddy-strings/description/
+ * https://leetcode-cn.com/submissions/detail/5795638/
+ * 
+ * https://leetcode-cn.com/problems/buddy-strings/solution/
+ * 题意理解不对 , 参考阅读解答
  */
 public class Test196 {
 
