@@ -4,6 +4,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
+import com.zoran.leetcode.Test17.ListNode;
 import com.zoran.leetcode.simple3.Test90.TreeNode;
 
 public class NodeTest {
@@ -55,4 +56,10 @@ public class NodeTest {
 	        children = _children;
 	    }
 	};
+	
+	static public class ListNode {
+		int val;
+		public ListNode next;
+		ListNode(int x) { val = x; }
+	}
 }
