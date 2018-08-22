@@ -58,8 +58,8 @@ public class NodeTest {
 	};
 	
 	static public class ListNode {
-		int val;
+		public int val;
 		public ListNode next;
-		ListNode(int x) { val = x; }
+		public ListNode(int x) { val = x; }
 	}
 }
