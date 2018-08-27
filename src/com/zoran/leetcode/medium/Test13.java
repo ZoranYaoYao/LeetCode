@@ -10,7 +10,7 @@ import java.util.List;
  * [Solution]
  * https://leetcode-cn.com/problems/generate-parentheses/solution/
  * 
- * 递归生成选择的字符串数组
+ * 递归生成选择的字符串数组 (类似二叉树的递归调用)
  */
 public class Test13 {
 
