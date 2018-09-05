@@ -125,6 +125,7 @@ class Nice_Test28 {
 				for(int col=right; col >= left; col--) {
 					res.add(matrix[bot][col]);
 				}
+				bot--;
 			}
 			
 			if (res.size() < rowNum*colNum) {
