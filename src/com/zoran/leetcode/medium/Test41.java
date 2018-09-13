@@ -9,7 +9,7 @@ import java.util.List;
  * 
  * OT 
  */
-public class Tset41 {
+public class Test41 {
     public List<List<Integer>> combine(int n, int k) {
         //»ØËİËã·¨ ÕÒlength=kµÄlist
         List<List<Integer>> result = new ArrayList<>();
