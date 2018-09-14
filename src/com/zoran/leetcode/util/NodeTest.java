@@ -5,6 +5,7 @@ import java.util.Arrays;
 import java.util.List;
 
 import com.zoran.leetcode.Test17.ListNode;
+import com.zoran.leetcode.medium.Test46;
 import com.zoran.leetcode.simple3.Test90.TreeNode;
 
 public class NodeTest {
@@ -34,6 +35,19 @@ public class NodeTest {
 
 		TreeNode item8 = new TreeNode(1); item4.right = item8;
 		//		System.out.println(pathSum(root, 8));
+	}
+	
+	public void ListNodeObject() {
+		ListNode root = new ListNode(1);
+		ListNode node1 = new ListNode(1); root.next = node1;
+		ListNode node2= new ListNode(3);  node1.next = node2;
+		ListNode node3 = new ListNode(3); node2.next = node3;
+		ListNode node4 = new ListNode(4); node3.next = node4;
+		ListNode node5 = new ListNode(4); node4.next = node5;
+		ListNode node6 = new ListNode(5); node5.next = node6;
+
+		Test46 test46 = new Test46();
+		test46.deleteDuplicates(root);
 	}
 
 	//     Definition for a binary tree node.

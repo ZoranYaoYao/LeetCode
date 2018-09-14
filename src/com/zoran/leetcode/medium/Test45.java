@@ -2,6 +2,8 @@ package com.zoran.leetcode.medium;
 
 import java.util.Arrays;
 
+import com.zoran.leetcode.util.NodeTest.ListNode;
+
 /**
  * ËÑË÷Ðý×ªÅÅÐòÊý×é II
  * https://leetcode-cn.com/submissions/detail/7012343/
