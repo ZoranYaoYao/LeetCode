@@ -18,4 +18,9 @@ public class 动态规划算法 {
 	 * 			path[j][i] = path[j-1][i] + path[j][i-1];
 	 *   refer: com.zoran.leetcode.medium.Test34
 	 */
+	
+	/**
+	 * 经典动态规划:
+	 * Test50
+	 */
 }
