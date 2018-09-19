@@ -11,7 +11,7 @@ import com.zoran.leetcode.util.NodeTest.TreeNode;
  * [Solution]
  * http://www.cnblogs.com/xiagnming/archive/2018/09/07/9603925.html
  * 
- * 前序遍历（DLR），是二叉树遍历的一种，也叫做先根遍历、先序遍历、前序周游，可记做根左右。前序遍历首先访问根结点然后遍历左子树，最后遍历右子树。(广度优先)
+ * 前序遍历（DLR），是二叉树遍历的一种，也叫做先根遍历、先序遍历、前序周游，可记做根左右。前序遍历首先访问根结点然后遍历左子树，最后遍历右子树。(不是广度优先!!!!)
  * 中序遍历（LDR）是二叉树遍历的一种，也叫做中根遍历、中序周游。在二叉树中，中序遍历首先遍历左子树，然后访问根结点，最后遍历右子树。 (深度优先)
  */
 public class Test59 {
@@ -46,7 +46,23 @@ public class Test59 {
     }
 }
 
+/**
+ *      3
+ *    9  20 
+ *  6   15 7
+ *  先序遍历为: 先遍历根,在遍历左子树, 最后遍历右子树  3,(9,6),(20,15,7)
+ * 中序遍历为: 先遍历左子树,在遍历根,最后遍历右子树, (6,9),3,(15,20,7)  
+ */
 class LeetCode_Test59 {
+	
+	public static void main(String[] args) {
+		LeetCode_Test59 test59 = new LeetCode_Test59();
+		int[] preorder = {3,9,6,20,15,7};
+		int[] inorder = {6,9,3,15,20,7};
+		TreeNode res = test59.buildTree(preorder, inorder);
+		res.toString();
+	}
+	
 	public TreeNode buildTree(int[] preorder, int[] inorder) {
 		//换成栈的方式进行弹
 		Stack<Integer> stack = new Stack<>();
@@ -74,13 +90,13 @@ class LeetCode_Test59 {
 				break;
 			}
 		}
+		// 先根,再左子树遍历,再右子树遍历 , 是一个前序遍历过程
 		TreeNode top = new TreeNode(pop);
 		top.left = helper(stack, inorder, lo, index-1);
 		top.right = helper(stack, inorder, index+1, high);
 		return top;
 	}
 }
-
 
 
 
