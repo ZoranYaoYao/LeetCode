@@ -44,7 +44,7 @@ public class Test62 {
  * 
  * »ØËÝ·¨!!
  */
-class Nice_Test63 {
+class Nice_Test62 {
 	List<List<Integer>> res = new ArrayList<>();
 	public List<List<Integer>> pathSum(TreeNode root, int sum) {
 		if (root == null) return res;
