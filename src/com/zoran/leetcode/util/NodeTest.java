@@ -84,4 +84,11 @@ public class NodeTest {
 		Interval() { start = 0; end = 0; }
 		public Interval(int s, int e) { start = s; end = e; }
 	}
+	
+//	  Definition for binary tree with next pointer.
+	  public static class TreeLinkNode {
+		  public int val;
+		  public TreeLinkNode left, right, next;
+		  public TreeLinkNode(int x) { val = x; }
+	  }
 }
