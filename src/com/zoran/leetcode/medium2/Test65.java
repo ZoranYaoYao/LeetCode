@@ -4,6 +4,12 @@ import java.util.LinkedList;
 
 import com.zoran.leetcode.util.NodeTest.TreeLinkNode;
 
+/**
+ * 填充同一层的兄弟节点 II
+ * https://leetcode-cn.com/submissions/detail/7384597/
+ * 
+ * OT
+ */
 public class Test65 {
 
     public void connect(TreeLinkNode root) {
