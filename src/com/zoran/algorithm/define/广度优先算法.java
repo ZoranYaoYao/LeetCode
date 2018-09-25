@@ -5,4 +5,8 @@ package com.zoran.algorithm.define;
  * https://www.cnblogs.com/gczr/p/6476577.html
  */
 public class 广度优先算法 {
+	
+//	 * 单词接龙
+//	 * https://leetcode-cn.com/submissions/detail/7524790/
+	
 }
