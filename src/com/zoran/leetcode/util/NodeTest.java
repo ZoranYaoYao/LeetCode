@@ -36,7 +36,7 @@ public class NodeTest {
 		TreeNode item8 = new TreeNode(1); item4.right = item8;
 		//		System.out.println(pathSum(root, 8));
 	}
-	
+
 	public void ListNodeObject() {
 		ListNode root = new ListNode(1);
 		ListNode node1 = new ListNode(1); root.next = node1;
@@ -77,18 +77,25 @@ public class NodeTest {
 		public ListNode(int x) { val = x; }
 	}
 
-	//	 * Definition for an interval.
+	// Definition for an interval.
 	public static class Interval {
 		public int start;
 		public int end;
 		Interval() { start = 0; end = 0; }
 		public Interval(int s, int e) { start = s; end = e; }
 	}
-	
-//	  Definition for binary tree with next pointer.
-	  public static class TreeLinkNode {
-		  public int val;
-		  public TreeLinkNode left, right, next;
-		  public TreeLinkNode(int x) { val = x; }
-	  }
+
+	// Definition for binary tree with next pointer.
+	public static class TreeLinkNode {
+		public int val;
+		public TreeLinkNode left, right, next;
+		public TreeLinkNode(int x) { val = x; }
+	}
+
+	// Definition for undirected graph.
+	public static class UndirectedGraphNode {
+		public int label;
+		public List<UndirectedGraphNode> neighbors;
+		public UndirectedGraphNode(int x) { label = x; neighbors = new ArrayList<UndirectedGraphNode>(); }
+	};
 }
