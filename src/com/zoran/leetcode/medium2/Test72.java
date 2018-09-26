@@ -4,6 +4,9 @@ package com.zoran.leetcode.medium2;
  * 加油站
  * https://leetcode-cn.com/submissions/detail/7572348/
  * 
+ * [Solution]
+ * http://www.cnblogs.com/liuliu5151/p/9206898.html
+ * 
  * 考的就是一个数组如何从头循环
  */
 public class Test72 {
