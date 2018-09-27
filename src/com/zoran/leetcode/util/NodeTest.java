@@ -98,4 +98,11 @@ public class NodeTest {
 		public List<UndirectedGraphNode> neighbors;
 		public UndirectedGraphNode(int x) { label = x; neighbors = new ArrayList<UndirectedGraphNode>(); }
 	};
+
+	// Definition for singly-linked list with a random pointer.
+	public static class RandomListNode {
+		public int label;
+		public RandomListNode next, random;
+		public RandomListNode(int x) { this.label = x; }
+	};
 }
