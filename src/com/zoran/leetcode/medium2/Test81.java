@@ -8,7 +8,6 @@ import java.util.LinkedList;
  * 
  * LinkedList Õ»µÄÓÃ·¨
  * push() pop()
- *
  */
 public class Test81 {
 
