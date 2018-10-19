@@ -8,6 +8,7 @@ import com.zoran.leetcode.util.NodeTest.TreeNode;
  * 
  * [Solution]
  * https://blog.csdn.net/qz530308783/article/details/52155867
+ * 根据完全二叉树性质, 进行求解
  */
 public class Test101 {
 
