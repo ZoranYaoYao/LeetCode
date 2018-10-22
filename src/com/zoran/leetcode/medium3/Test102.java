@@ -42,6 +42,7 @@ public class Test102 {
 
 class Nice_Test102 {
 	//分2种情况
+	
 	public int computeArea (int A, int B, int C, int D, int E, int F, int G, int H) {
 		int s = (C-A)*(D-B) + (G-E)*(H-F);
 		if (C<=E || F>=D || B>=H || A>=G) return s;
