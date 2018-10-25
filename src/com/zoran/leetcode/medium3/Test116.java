@@ -40,4 +40,5 @@ public class Test116 {
 		public boolean hasNext() {
 		    return curIndex < list.size();
 		}
+	}
 }
