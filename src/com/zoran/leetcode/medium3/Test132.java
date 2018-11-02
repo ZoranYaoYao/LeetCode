@@ -4,6 +4,9 @@ package com.zoran.leetcode.medium3;
  * 验证二叉树的前序序列化
  * https://leetcode-cn.com/submissions/detail/8939008/
  * 
+ * [Solution]
+ * https://blog.csdn.net/LaputaFallen/article/details/80025590
+ * 
  *  根据性质, 出度,入度来看关系
  * 验证是否是以个树: if (--diff < 0) return false; 如果<0 , 则不会构成一棵树!! 
  */
