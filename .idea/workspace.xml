@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eaf95abc-7041-4bd5-af02-9eaa40b3dc7d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/zoran/leetcode/medium3/Test147.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zoran/leetcode/medium3/Test148.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -17,35 +16,36 @@
     <session id="1462233864">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.4" value="2" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="2" />
           <entry key="gitignore" value="1" />
-          <entry key="java" value="14" />
+          <entry key="java" value="17" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="2" />
-          <entry key="JAVA" value="14" />
+          <entry key="JAVA" value="17" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="gitignore" value="7" />
-          <entry key="java" value="833" />
+          <entry key="java" value="2342" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="833" />
+          <entry key="JAVA" value="2342" />
           <entry key="PLAIN_TEXT" value="7" />
         </counts>
       </usages-collector>
@@ -53,96 +53,15 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/zoran/leetcode/medium/Test19.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/zoran/leetcode/medium/Test15.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/zoran/leetcode/medium/Test12.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/zoran/leetcode/medium3/Test146.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="402">
-              <caret line="25" column="26" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/zoran/leetcode/medium3/Test147.java">
+        <entry file="file://$PROJECT_DIR$/src/com/zoran/leetcode/medium3/Test148.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="9" column="62" selection-start-line="9" selection-start-column="62" selection-end-line="9" selection-end-column="62" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/zoran/leetcode/medium/Test02.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/zoran/leetcode/medium3/Test145.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1350">
-              <caret line="80" selection-start-line="80" selection-end-line="80" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/PriorityQueue.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5292">
-              <caret line="326" column="6" selection-start-line="326" selection-start-column="6" selection-end-line="326" selection-end-column="6" />
+            <state relative-caret-position="309">
+              <caret line="57" column="40" lean-forward="true" selection-start-line="57" selection-start-column="40" selection-end-line="57" selection-end-column="40" />
               <folding>
-                <element signature="e#12158#12159#0" expanded="true" />
-                <element signature="e#12189#12190#0" expanded="true" />
+                <element signature="method#combinationSum4#0;class#Test148#0" />
+                <element signature="method#backTrace#0;class#Test148#0" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/Queue.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2304">
-              <caret line="161" column="12" selection-start-line="161" selection-start-column="12" selection-end-line="161" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -156,6 +75,14 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>return</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>res =</replace>
+    </replaceStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -164,6 +91,9 @@
       <list>
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/src/com/zoran/leetcode/medium3/Test147.java" />
+        <option value="$PROJECT_DIR$/src/com/zoran/leetcode/medium3/AA.java" />
+        <option value="$PROJECT_DIR$/src/com/zoran/leetcode/medium3/Ab.java" />
+        <option value="$PROJECT_DIR$/src/com/zoran/leetcode/medium3/Test148.java" />
       </list>
     </option>
   </component>
@@ -173,7 +103,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="76" />
     <option name="y" value="23" />
     <option name="width" value="1604" />
@@ -188,23 +118,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="LeetCode" type="58d84e3e:PackageViewProjectNode" />
-              <item name="LeetCode" type="616d4139:PackageViewModuleNode" />
-            </path>
-            <path>
-              <item name="LeetCode" type="58d84e3e:PackageViewProjectNode" />
-              <item name="LeetCode" type="616d4139:PackageViewModuleNode" />
-              <item name="com.zoran.leetcode.medium3" type="1f31426a:PackageElementNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -221,14 +134,31 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="LeetCode" type="58d84e3e:PackageViewProjectNode" />
+              <item name="LeetCode" type="616d4139:PackageViewModuleNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="58d84e3e:PackageViewProjectNode" />
+              <item name="LeetCode" type="616d4139:PackageViewModuleNode" />
+              <item name="com.zoran.leetcode.medium3" type="1f31426a:PackageElementNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542768241619" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542850198266" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -242,7 +172,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test147">
+  <component name="RunManager" selected="Application.zqs_Test148">
+    <configuration name="AA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zoran.leetcode.medium3.AA" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zoran.leetcode.medium3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Nice_LeetCode_Test145" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.zoran.leetcode.medium3.Nice_LeetCode_Test145" />
       <module name="LeetCode" />
@@ -269,12 +212,44 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Test148" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zoran.leetcode.medium3.Test148" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zoran.leetcode.medium3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="zqs_Test148" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zoran.leetcode.medium3.zqs_Test148" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zoran.leetcode.medium3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.Nice_LeetCode_Test145" />
       <item itemvalue="Application.Test147" />
+      <item itemvalue="Application.AA" />
+      <item itemvalue="Application.Test148" />
+      <item itemvalue="Application.zqs_Test148" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.zqs_Test148" />
+        <item itemvalue="Application.Test148" />
+        <item itemvalue="Application.AA" />
         <item itemvalue="Application.Test147" />
         <item itemvalue="Application.Nice_LeetCode_Test145" />
       </list>
@@ -294,10 +269,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="76" y="23" width="1604" height="1027" extended-state="6" />
+    <frame x="76" y="23" width="1604" height="1027" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1978233" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20294495" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -306,7 +281,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32941177" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.44385028" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -418,10 +393,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zoran/leetcode/medium3/AA.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/zoran/leetcode/medium3/Ab.java" />
     <entry file="file://$PROJECT_DIR$/src/com/zoran/leetcode/medium/Test12.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
           <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zoran/leetcode/medium3/Test146.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="25" column="26" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
         </state>
       </provider>
     </entry>
@@ -464,17 +448,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zoran/leetcode/medium3/Test146.java">
+    <entry file="file://$PROJECT_DIR$/src/com/zoran/leetcode/medium3/Test147.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="402">
-          <caret line="25" column="26" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
+        <state relative-caret-position="198">
+          <caret line="11" column="3" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zoran/leetcode/medium3/Test147.java">
+    <entry file="file://$PROJECT_DIR$/src/com/zoran/leetcode/medium3/Test148.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="62" selection-start-line="9" selection-start-column="62" selection-end-line="9" selection-end-column="62" />
+        <state relative-caret-position="309">
+          <caret line="57" column="40" lean-forward="true" selection-start-line="57" selection-start-column="40" selection-end-line="57" selection-end-column="40" />
+          <folding>
+            <element signature="method#combinationSum4#0;class#Test148#0" />
+            <element signature="method#backTrace#0;class#Test148#0" />
+          </folding>
         </state>
       </provider>
     </entry>
