@@ -1,4 +1,4 @@
-package com.zoran.algorithm;
+package com.zoran.comparator;
 
 import java.util.ArrayList;
 import java.util.Collections;
