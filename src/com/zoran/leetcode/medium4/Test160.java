@@ -42,6 +42,7 @@ class Nice_Test160 {
             }
 
         }
+        return size;
 
     }
 
