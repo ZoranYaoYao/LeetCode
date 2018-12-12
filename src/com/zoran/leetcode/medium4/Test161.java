@@ -29,7 +29,7 @@ public class Test161 {
     }
 }
 
-class Nice_Test160 {
+class Nice_Test161 {
     /**
      * 数学，找规律法
      */
