@@ -55,6 +55,17 @@ public class NodeTest {
 		public ListNode(int x) { val = x; }
 	}
 
+	public static class TreeNode {
+		//     Definition for a binary tree node.
+		public int val;
+		public TreeNode left;
+		public TreeNode right;
+
+		public TreeNode(int x) {
+			val = x;
+		}
+	}
+
 	// Definition for an interval.
 	public static class Interval {
 		public int start;

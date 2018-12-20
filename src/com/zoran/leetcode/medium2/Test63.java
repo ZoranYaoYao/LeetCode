@@ -1,6 +1,6 @@
 package com.zoran.leetcode.medium2;
 
-import com.zoran.leetcode.util.NodeTest.TreeNode;
+import com.zoran.leetcode.util.TreeNode;
 
 /**
  * 二叉树展开为链表

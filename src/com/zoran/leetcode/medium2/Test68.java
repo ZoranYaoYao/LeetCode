@@ -1,6 +1,7 @@
 package com.zoran.leetcode.medium2;
 
-import com.zoran.leetcode.util.NodeTest.TreeNode;
+
+import com.zoran.leetcode.util.TreeNode;
 
 /**
  * 求根到叶子节点数字之和

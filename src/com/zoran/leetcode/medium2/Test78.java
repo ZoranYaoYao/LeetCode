@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Stack;
 
-import com.zoran.leetcode.util.NodeTest.TreeNode;
+import com.zoran.leetcode.util.TreeNode;
 
 /**
  * 二叉树的前序遍历
