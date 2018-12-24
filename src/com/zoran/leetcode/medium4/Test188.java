@@ -55,5 +55,6 @@ class LeetCode_Test188 {
         for (int i=0; i<len; i++) {
             count += Math.abs(nums[i] - mid); //Core 已中间位置的那个值基准
         }
+        return count;
     }
 }
