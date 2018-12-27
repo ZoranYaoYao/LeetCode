@@ -17,9 +17,6 @@ public class ArrayTest {
 
         //数组唯一属性
         int length = strs.length;
-
-
-
         testArraysAPI();
     }
 
