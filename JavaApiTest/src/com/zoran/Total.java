@@ -16,12 +16,14 @@ public class Total {
 //        });
 
 
-        System.out.println(Integer.toBinaryString(-1));
+//        System.out.println(Integer.toBinaryString(-1));
+
+        Single.print();
+        System.out.println(Single.getInstance());
+        System.out.println(Single.getInstance());
+        System.out.println(Single.getInstance());
 
     }
 
-    abstract class A {
-        A(){}
 
-    }
 }
