@@ -23,6 +23,8 @@ public class Total {
         System.out.println(Single.getInstance());
         System.out.println(Single.getInstance());
 
+        System.out.println(Math.floor(12.9));
+
     }
 
 
