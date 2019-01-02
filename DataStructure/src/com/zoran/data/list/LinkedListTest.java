@@ -1,4 +1,4 @@
-package com.zoran.data;
+package com.zoran.data.list;
 
 import java.util.ArrayList;
 import java.util.Comparator;
