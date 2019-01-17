@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eaf95abc-7041-4bd5-af02-9eaa40b3dc7d" name="Default Changelist" comment="9">
-      <change afterPath="$PROJECT_DIR$/src/com/zoran/leetcode/medium5/Test210.java" afterDir="false" />
+    <list default="true" id="eaf95abc-7041-4bd5-af02-9eaa40b3dc7d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -21,13 +20,13 @@
     <session id="1462233864">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="39" />
+          <entry key="project.closed" value="40" />
           <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.4" value="14" />
           <entry key="project.open.time.5" value="16" />
-          <entry key="project.open.time.6" value="7" />
+          <entry key="project.open.time.6" value="8" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="40" />
+          <entry key="project.opened" value="41" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -35,7 +34,7 @@
           <entry key="class" value="6" />
           <entry key="gitignore" value="1" />
           <entry key="iml" value="1" />
-          <entry key="java" value="313" />
+          <entry key="java" value="373" />
           <entry key="kt" value="1" />
           <entry key="xml" value="1" />
         </counts>
@@ -44,7 +43,7 @@
         <counts>
           <entry key="CLASS" value="6" />
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="313" />
+          <entry key="JAVA" value="373" />
           <entry key="Kotlin" value="1" />
           <entry key="PLAIN_TEXT" value="1" />
           <entry key="XML" value="1" />
@@ -54,13 +53,13 @@
         <counts>
           <entry key="dummy" value="26" />
           <entry key="gitignore" value="7" />
-          <entry key="java" value="37841" />
+          <entry key="java" value="42343" />
           <entry key="txt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="37841" />
+          <entry key="JAVA" value="42343" />
           <entry key="PLAIN_TEXT" value="34" />
         </counts>
       </usages-collector>
@@ -68,134 +67,87 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DataStructure/src/com/zoran/data/list/ArrayTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="25" column="29" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DataStructure/src/com/zoran/data/list/LinkedListTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DataStructure/src/com/zoran/data/list/VectorTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/zoran/leetcode/medium5/Test209.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="6" selection-start-line="6" selection-end-line="12" selection-end-column="28" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="docComment;method#change#0;class#Test209#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/zoran/leetcode/medium5/Test210.java">
+        <entry file="file://$PROJECT_DIR$/DataStructure/src/com/zoran/data/map/HashMapTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="6" column="55" selection-start-line="6" selection-start-column="55" selection-end-line="6" selection-end-column="55" />
+            <state relative-caret-position="180">
+              <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
               <folding>
-                <element signature="e#190#191#0" expanded="true" />
-                <element signature="e#244#245#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/Arrays.java">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/AbstractMap.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="188">
-              <caret line="70" column="21" lean-forward="true" selection-start-line="70" selection-start-column="21" selection-end-line="70" selection-end-column="21" />
+            <state relative-caret-position="206">
+              <caret line="545" column="18" selection-start-line="545" selection-start-column="18" selection-end-line="545" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/Map.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="347">
+              <caret line="785" column="24" selection-start-line="785" selection-start-column="24" selection-end-line="785" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/Objects.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="212">
+              <caret line="57" column="26" selection-start-line="57" selection-start-column="26" selection-end-line="57" selection-end-column="26" />
               <folding>
-                <element signature="e#5027#5028#0" expanded="true" />
-                <element signature="e#5098#5099#0" expanded="true" />
-                <element signature="e#6903#6904#0" expanded="true" />
-                <element signature="e#6974#6975#0" expanded="true" />
-                <element signature="e#12536#12537#0" expanded="true" />
-                <element signature="e#12595#12596#0" expanded="true" />
-                <element signature="e#88329#88330#0" expanded="true" />
-                <element signature="e#88386#88387#0" expanded="true" />
-                <element signature="e#111724#111725#0" expanded="true" />
-                <element signature="e#111781#111782#0" expanded="true" />
-                <element signature="e#177013#177014#0" expanded="true" />
-                <element signature="e#177054#177055#0" expanded="true" />
-                <element signature="e#177353#177354#0" expanded="true" />
-                <element signature="e#177410#177411#0" expanded="true" />
+                <element signature="e#1410#1411#0" expanded="true" />
+                <element signature="e#1471#1472#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DataStructure/src/com/zoran/data/list/StackTest.java">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/HashMap.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DataStructure/src/com/zoran/data/list/ArrayQueueTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            <state relative-caret-position="380">
+              <caret line="1939" column="41" selection-start-line="1939" selection-start-column="41" selection-end-line="1939" selection-end-column="41" />
               <folding>
-                <element signature="e#130#131#0" expanded="true" />
-                <element signature="e#174#175#0" expanded="true" />
+                <element signature="e#19103#19104#0" expanded="true" />
+                <element signature="e#19161#19162#0" expanded="true" />
+                <element signature="e#19327#19328#0" expanded="true" />
+                <element signature="e#19410#19411#0" expanded="true" />
+                <element signature="e#21107#21108#0" expanded="true" />
+                <element signature="e#21134#21135#0" expanded="true" />
+                <element signature="e#21334#21335#0" expanded="true" />
+                <element signature="e#21366#21367#0" expanded="true" />
+                <element signature="e#23628#23629#0" expanded="true" />
+                <element signature="e#23682#23683#0" expanded="true" />
+                <element signature="e#24329#24330#0" expanded="true" />
+                <element signature="e#24394#24395#0" expanded="true" />
+                <element signature="e#31057#31058#0" expanded="true" />
+                <element signature="e#31095#31096#0" expanded="true" />
+                <element signature="e#42259#42260#0" expanded="true" />
+                <element signature="e#42335#42336#0" expanded="true" />
+                <element signature="e#66765#66766#0" expanded="true" />
+                <element signature="e#66822#66823#0" expanded="true" />
+                <element signature="e#68865#68866#0" expanded="true" />
+                <element signature="e#68916#68917#0" expanded="true" />
+                <element signature="e#71488#71489#0" expanded="true" />
+                <element signature="e#71570#71571#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/Math.java">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/function/BiFunction.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="21276">
-              <caret line="1250" column="22" selection-start-line="1250" selection-start-column="22" selection-end-line="1250" selection-end-column="22" />
-              <folding>
-                <element signature="e#16338#16339#0" expanded="true" />
-                <element signature="e#16420#16421#0" expanded="true" />
-                <element signature="e#17181#17182#0" expanded="true" />
-                <element signature="e#17264#17265#0" expanded="true" />
-                <element signature="e#49043#49044#0" expanded="true" />
-                <element signature="e#49082#49083#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/List.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="9360">
-              <caret line="543" column="6" selection-start-line="543" selection-start-column="6" selection-end-line="543" selection-end-column="6" />
+            <state relative-caret-position="219">
+              <caret line="52" column="6" selection-start-line="52" selection-start-column="6" selection-end-line="52" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -214,7 +166,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>return</find>
       <find>set</find>
       <find>相加</find>
       <find>corePoolSize</find>
@@ -223,6 +174,11 @@
       <find>]</find>
       <find>DEFAULT_CAPACITY</find>
       <find>binarySort</find>
+      <find>MIN_TREEIFY_CAPACITY</find>
+      <find>Comparable</find>
+      <find>clone</find>
+      <find>prev</find>
+      <find>return</find>
     </findStrings>
     <replaceStrings>
       <replace>res =</replace>
@@ -236,18 +192,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/zoran/leetcode/medium2/Test63.java" />
-        <option value="$PROJECT_DIR$/src/com/zoran/leetcode/medium2/Test78.java" />
-        <option value="$PROJECT_DIR$/src/com/zoran/leetcode/util/NodeTest.java" />
-        <option value="$PROJECT_DIR$/src/com/zoran/leetcode/medium4/Test182.java" />
-        <option value="$PROJECT_DIR$/src/com/zoran/leetcode/medium4/Test183.java" />
-        <option value="$PROJECT_DIR$/src/com/zoran/leetcode/medium4/Test184.java" />
-        <option value="$PROJECT_DIR$/src/com/zoran/leetcode/medium4/Test185.java" />
-        <option value="$PROJECT_DIR$/src/com/zoran/leetcode/medium4/Test186.java" />
-        <option value="$PROJECT_DIR$/src/com/zoran/leetcode/medium4/Test187.java" />
-        <option value="$PROJECT_DIR$/src/com/zoran/leetcode/medium4/Test188.java" />
-        <option value="$PROJECT_DIR$/src/com/zoran/leetcode/medium4/Test189.java" />
-        <option value="$PROJECT_DIR$/src/com/zoran/leetcode/medium4/Test190.java" />
         <option value="$PROJECT_DIR$/src/com/zoran/leetcode/medium4/Test191.java" />
         <option value="$PROJECT_DIR$/src/com/zoran/leetcode/medium4/Test192.java" />
         <option value="$PROJECT_DIR$/src/com/zoran/leetcode/medium4/Test193.java" />
@@ -287,6 +231,18 @@
         <option value="$PROJECT_DIR$/src/com/zoran/leetcode/medium5/Test208.java" />
         <option value="$PROJECT_DIR$/src/com/zoran/leetcode/medium5/Test209.java" />
         <option value="$PROJECT_DIR$/src/com/zoran/leetcode/medium5/Test210.java" />
+        <option value="$PROJECT_DIR$/src/com/zoran/leetcode/medium5/Test211.java" />
+        <option value="$PROJECT_DIR$/src/com/zoran/leetcode/medium5/Test212.java" />
+        <option value="$PROJECT_DIR$/src/com/zoran/leetcode/medium5/Test213.java" />
+        <option value="$PROJECT_DIR$/src/com/zoran/leetcode/medium5/Test214.java" />
+        <option value="$PROJECT_DIR$/src/com/zoran/leetcode/medium5/Test215.java" />
+        <option value="$PROJECT_DIR$/src/com/zoran/leetcode/medium5/Test216.java" />
+        <option value="$PROJECT_DIR$/src/com/zoran/leetcode/medium5/Test217.java" />
+        <option value="$PROJECT_DIR$/src/com/zoran/leetcode/medium5/Test218.java" />
+        <option value="$PROJECT_DIR$/src/com/zoran/leetcode/medium5/Test219.java" />
+        <option value="$PROJECT_DIR$/src/com/zoran/leetcode/medium5/Test220.java" />
+        <option value="$PROJECT_DIR$/src/com/zoran/leetcode/medium5/Test221.java" />
+        <option value="$PROJECT_DIR$/DataStructure/src/com/zoran/data/map/HashMapTest.java" />
       </list>
     </option>
   </component>
@@ -296,7 +252,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="x" value="69" />
     <option name="y" value="23" />
     <option name="width" value="806" />
@@ -359,12 +315,12 @@
             </path>
             <path>
               <item name="LeetCode" type="58d84e3e:PackageViewProjectNode" />
-              <item name="LeetCode" type="616d4139:PackageViewModuleNode" />
+              <item name="DataStructure" type="616d4139:PackageViewModuleNode" />
+              <item name="com.zoran.data.map" type="1f31426a:PackageElementNode" />
             </path>
             <path>
               <item name="LeetCode" type="58d84e3e:PackageViewProjectNode" />
               <item name="LeetCode" type="616d4139:PackageViewModuleNode" />
-              <item name="com.zoran.leetcode.medium5" type="1f31426a:PackageElementNode" />
             </path>
           </expand>
           <select />
@@ -397,12 +353,12 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SearchEverywhereHistoryKey" value="Hashmap&#9;PSI&#9;JAVA://java.util.HashMap&#10;stack&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/Stack.java&#10;Vec&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/Vector.java&#10;ArrayQueue&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/com/sun/jmx/remote/internal/ArrayQueue.java&#10;linked&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/LinkedList.java&#10;arrayqueue&#9;PSI&#9;JAVA://com.sun.jmx.remote.internal.ArrayQueue&#10;linke&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/LinkedList.java&#10;link&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/LinkedList.java&#10;LinkedList&#9;PSI&#9;JAVA://java.util.LinkedList&#10;math&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/Math.java&#10;Arrays&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/Arrays.java&#10;Collections&#9;PSI&#9;JAVA://java.util.Collections&#10;Math&#9;PSI&#9;JAVA://java.lang.Math&#10;Random&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/Random.java&#10;Compara&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/Comparator.java&#10;Comparator&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/Comparator.java&#10;comparator&#9;PSI&#9;JAVA://java.util.Comparator&#10;Threadpo&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/concurrent/ThreadPoolExecutor.java&#10;String&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/String.java&#10;callerrunpo&#9;PSI&#9;JAVA://java.util.concurrent.ThreadPoolExecutor.CallerRunsPolicy&#10;Execu&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/concurrent/Executors.java&#10;Execse&#9;PSI&#9;JAVA://java.util.concurrent.ExecutorService&#10;StringBuf&#9;PSI&#9;JAVA://java.lang.StringBuffer&#10;Executors&#9;PSI&#9;JAVA://java.util.concurrent.Executors&#10;LinkedLi&#9;PSI&#9;JAVA://java.util.LinkedList&#10;Col&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/Collections.java&#10;Arr&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/ArrayList.java&#10;Enum&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/Enum.java&#10;List&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/ArrayList.java&#10;hashset&#9;PSI&#9;JAVA://java.util.HashSet&#10;Inte&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/Integer.java&#10;ob&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/Object.java&#10;Obje&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/Object.java&#10;Objec&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/Object.java" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547523604192" />
+    <property name="SearchEverywhereHistoryKey" value="En&#9;ACTION&#9;Maven.AddManagedFiles&#10;String&#9;PSI&#9;JAVA://java.lang.String&#10;Inte&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/Integer.java&#10;Arrays&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/Arrays.java&#10;Arraylis&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/ArrayList.java&#10;Hash&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/HashMap.java&#10;HashMa&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/HashMap.java&#10;Hashmap&#9;PSI&#9;JAVA://java.util.HashMap&#10;stack&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/Stack.java&#10;Vec&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/Vector.java&#10;ArrayQueue&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/com/sun/jmx/remote/internal/ArrayQueue.java&#10;linked&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/LinkedList.java&#10;arrayqueue&#9;PSI&#9;JAVA://com.sun.jmx.remote.internal.ArrayQueue&#10;linke&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/LinkedList.java&#10;link&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/LinkedList.java&#10;LinkedList&#9;PSI&#9;JAVA://java.util.LinkedList&#10;math&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/Math.java&#10;Collections&#9;PSI&#9;JAVA://java.util.Collections&#10;Math&#9;PSI&#9;JAVA://java.lang.Math&#10;Random&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/Random.java&#10;Compara&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/Comparator.java&#10;Comparator&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/Comparator.java&#10;comparator&#9;PSI&#9;JAVA://java.util.Comparator&#10;Threadpo&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/concurrent/ThreadPoolExecutor.java&#10;callerrunpo&#9;PSI&#9;JAVA://java.util.concurrent.ThreadPoolExecutor.CallerRunsPolicy&#10;Execu&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/concurrent/Executors.java&#10;Execse&#9;PSI&#9;JAVA://java.util.concurrent.ExecutorService&#10;StringBuf&#9;PSI&#9;JAVA://java.lang.StringBuffer&#10;Executors&#9;PSI&#9;JAVA://java.util.concurrent.Executors&#10;LinkedLi&#9;PSI&#9;JAVA://java.util.LinkedList&#10;Col&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/Collections.java&#10;Arr&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/ArrayList.java&#10;Enum&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/Enum.java&#10;List&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/ArrayList.java&#10;hashset&#9;PSI&#9;JAVA://java.util.HashSet&#10;ob&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/Object.java&#10;Obje&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/Object.java&#10;Objec&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/Object.java" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547719645583" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -425,13 +381,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Nice_Test209">
-    <configuration name="ArrayQueueTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zoran.data.list.ArrayQueueTest" />
+  <component name="RunManager" selected="Application.HashMapTest">
+    <configuration name="HashMapTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zoran.data.map.HashMapTest" />
       <module name="DataStructure" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.zoran.data.list.*" />
+          <option name="PATTERN" value="com.zoran.data.map.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -439,21 +395,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinkedListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zoran.data.list.LinkedListTest" />
-      <module name="DataStructure" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.zoran.data.list.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Nice_Test209" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zoran.leetcode.medium5.Nice_Test209" />
+    <configuration name="Test213" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zoran.leetcode.medium5.Test213" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -465,8 +408,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test206" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zoran.leetcode.medium5.Test206" />
+    <configuration name="Test215" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zoran.leetcode.medium5.Test215" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -478,8 +421,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test209" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zoran.leetcode.medium5.Test209" />
+    <configuration name="Test219" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zoran.leetcode.medium5.Test219" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zoran.leetcode.medium5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test221" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zoran.leetcode.medium5.Test221" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -492,19 +448,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.LinkedListTest" />
-      <item itemvalue="Application.ArrayQueueTest" />
-      <item itemvalue="Application.Test206" />
-      <item itemvalue="Application.Test209" />
-      <item itemvalue="Application.Nice_Test209" />
+      <item itemvalue="Application.HashMapTest" />
+      <item itemvalue="Application.Test213" />
+      <item itemvalue="Application.Test215" />
+      <item itemvalue="Application.Test219" />
+      <item itemvalue="Application.Test221" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Nice_Test209" />
-        <item itemvalue="Application.Test209" />
-        <item itemvalue="Application.Test206" />
-        <item itemvalue="Application.ArrayQueueTest" />
-        <item itemvalue="Application.LinkedListTest" />
+        <item itemvalue="Application.HashMapTest" />
+        <item itemvalue="Application.Test221" />
+        <item itemvalue="Application.Test219" />
+        <item itemvalue="Application.Test215" />
+        <item itemvalue="Application.Test213" />
       </list>
     </recent_temporary>
   </component>
@@ -531,10 +487,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="69" y="23" width="1611" height="1027" extended-state="6" />
+    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4989796" visible="true" weight="0.20076482" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4989796" weight="0.18192919" />
       <window_info id="Image Layers" order="1" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -543,15 +499,15 @@
       <window_info id="Structure" order="6" sideWeight="0.50102043" weight="0.1612492" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32941177" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.23529412" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39786097" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2510204" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39591837" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32941177" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.33582887" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32857144" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.33571428" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32941177" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32941177" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32857144" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.2496799" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.26436782" />
@@ -691,6 +647,12 @@
           <properties />
           <option name="timeStamp" value="43" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/zoran/leetcode/medium5/Test219.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
@@ -698,6 +660,7 @@
         <watch expression="item" />
         <watch expression="(num&amp;(1&lt;&lt;i))" />
         <watch expression="c.contains(elementData[r])" />
+        <watch expression="i" />
       </configuration>
     </watches-manager>
   </component>
@@ -706,328 +669,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/zoran/algorithm/define/sort/S9桶排序.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="302">
-          <caret line="22" column="7" lean-forward="true" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zoran/algorithm/define/sort/S10基数排序.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-111">
-          <caret line="11" column="15" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zoran/algorithm/define/sort/S7堆排序.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="27" column="18" lean-forward="true" selection-start-line="27" selection-start-column="18" selection-end-line="27" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zoran/algorithm/define/sort/S6快速排序.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="214">
-          <caret line="18" column="18" lean-forward="true" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zoran/algorithm/define/sort/S2选择排序.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zoran/algorithm/define/分治算法.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zoran/algorithm/define/树.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zoran/algorithm/define/滑动窗口.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/TimSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3258">
-          <caret line="205" column="25" selection-start-line="205" selection-start-column="25" selection-end-line="205" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zoran/algorithm/define/动态规划算法.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zoran/algorithm/define/二分查找算法.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zoran/algorithm/define/sort/S8计数排序.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="82">
-          <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zoran/leetcode/medium5/Test203.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="19" column="15" lean-forward="true" selection-start-line="19" selection-start-column="15" selection-end-line="19" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/RuntimeException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="303">
-          <caret line="60" column="11" selection-start-line="60" selection-start-column="11" selection-end-line="60" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/IndexOutOfBoundsException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="55" column="12" selection-start-line="55" selection-start-column="12" selection-end-line="55" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/Object.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="296">
-          <caret line="62" column="33" selection-start-line="62" selection-start-column="33" selection-end-line="62" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/Iterator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
-          <caret line="91" column="17" selection-start-line="91" selection-start-column="17" selection-end-line="91" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/ListIterator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
-          <caret line="59" selection-start-line="59" selection-end-line="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/Deque.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
-          <caret line="192" column="17" selection-start-line="192" selection-start-column="17" selection-end-line="192" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/AbstractSequentialList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="292">
-          <caret line="112" column="13" selection-start-line="112" selection-start-column="13" selection-end-line="112" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
-          <caret line="1152" column="15" selection-start-line="1152" selection-start-column="15" selection-end-line="1152" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/Spliterator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2599">
-          <caret line="295" column="17" selection-start-line="295" selection-start-column="17" selection-end-line="295" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="296">
-          <caret line="106" selection-start-line="106" selection-end-line="107" selection-end-column="73" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DataStructure/src/com/zoran/data/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/AbstractCollection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
-          <caret line="60" column="58" lean-forward="true" selection-start-line="60" selection-start-column="58" selection-end-line="60" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/Collection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
-          <caret line="288" column="12" selection-start-line="288" selection-start-column="12" selection-end-line="288" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/AbstractList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="107" column="10" lean-forward="true" selection-start-line="107" selection-start-column="10" selection-end-line="107" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/com/sun/jmx/remote/internal/ArrayQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="66" column="5" selection-start-line="66" selection-start-column="5" selection-end-line="66" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zoran/leetcode/medium5/Test204.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" selection-start-line="3" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/HashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17100">
-          <caret line="1004" column="24" selection-start-line="1004" selection-start-column="15" selection-end-line="1004" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zoran/leetcode/medium5/Test205.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/LinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="13536">
-          <caret line="799" column="13" selection-start-line="799" selection-start-column="13" selection-end-line="799" selection-end-column="13" />
-          <folding>
-            <element signature="e#8008#8009#0" expanded="true" />
-            <element signature="e#8036#8037#0" expanded="true" />
-            <element signature="e#8248#8249#0" expanded="true" />
-            <element signature="e#8275#8276#0" expanded="true" />
-            <element signature="e#8748#8749#0" expanded="true" />
-            <element signature="e#8787#8788#0" expanded="true" />
-            <element signature="e#11209#11210#0" expanded="true" />
-            <element signature="e#11247#11248#0" expanded="true" />
-            <element signature="e#16099#16100#0" expanded="true" />
-            <element signature="e#16149#16150#0" expanded="true" />
-            <element signature="e#16416#16417#0" expanded="true" />
-            <element signature="e#16470#16471#0" expanded="true" />
-            <element signature="e#20484#20485#0" expanded="true" />
-            <element signature="e#20520#20521#0" expanded="true" />
-            <element signature="e#20770#20771#0" expanded="true" />
-            <element signature="e#20799#20800#0" expanded="true" />
-            <element signature="e#23214#23215#0" expanded="true" />
-            <element signature="e#23241#23242#0" expanded="true" />
-            <element signature="e#23699#23700#0" expanded="true" />
-            <element signature="e#23735#23736#0" expanded="true" />
-            <element signature="e#24161#24162#0" expanded="true" />
-            <element signature="e#24193#24194#0" expanded="true" />
-            <element signature="e#36042#36043#0" expanded="true" />
-            <element signature="e#36098#36099#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/Vector.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1260">
-          <caret line="98" column="4" selection-start-line="98" selection-start-column="4" selection-end-line="98" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/Stack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1422">
-          <caret line="102" column="19" selection-start-line="102" selection-start-column="19" selection-end-line="102" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zoran/leetcode/util/TreeNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="24" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zoran/leetcode/medium5/Test206.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" selection-start-line="7" selection-end-line="10" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zoran/leetcode/medium5/Test208.kt" />
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="27" column="17" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zoran/leetcode/medium5/Test207.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zoran/leetcode/medium5/Test208.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DataStructure/src/com/zoran/data/list/ArrayListTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/Math.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="21276">
@@ -1043,21 +684,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/List.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="9360">
-          <caret line="543" column="6" selection-start-line="543" selection-start-column="6" selection-end-line="543" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/DataStructure/src/com/zoran/data/list/ArrayQueueTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding>
-            <element signature="e#130#131#0" expanded="true" />
-            <element signature="e#174#175#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1065,9 +695,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="280">
           <caret line="25" column="29" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1075,9 +702,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1095,10 +719,257 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/Arrays.java">
+    <entry file="file://$PROJECT_DIR$/src/com/zoran/leetcode/medium5/Test209.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" selection-start-line="6" selection-end-line="12" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructure/src/com/zoran/data/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/net/URLClassLoader.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="188">
-          <caret line="70" column="21" lean-forward="true" selection-start-line="70" selection-start-column="21" selection-end-line="70" selection-end-column="21" />
+          <caret line="362" selection-start-line="362" selection-end-line="362" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/jar/Attributes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="63" selection-start-line="63" selection-end-line="63" />
+          <folding>
+            <element signature="e#1485#1486#0" expanded="true" />
+            <element signature="e#1684#1685#0" expanded="true" />
+            <element signature="e#1725#1726#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/jar/Manifest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="50" selection-start-line="50" selection-end-line="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/jar/JarFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-17">
+          <caret line="185" selection-start-line="185" selection-end-line="185" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/Float.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="462" selection-start-line="462" selection-end-line="462" />
+          <folding>
+            <element signature="e#18434#18435#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/ClassLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="508" selection-start-line="508" selection-end-line="508" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/Class.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="897">
+          <caret line="910" column="18" selection-start-line="910" selection-start-column="18" selection-end-line="910" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/reflect/ParameterizedType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="46" column="17" selection-start-line="46" selection-start-column="17" selection-end-line="46" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zoran/leetcode/medium5/Test211.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="666">
+          <caret line="37" column="1" lean-forward="true" selection-start-line="37" selection-start-column="1" selection-end-line="37" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zoran/leetcode/medium5/Test212.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="22" column="27" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zoran/leetcode/medium5/Test210.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zoran/leetcode/medium5/Test213.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="20" column="10" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/Collections.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2448">
+          <caret line="173" column="27" selection-start-line="173" selection-start-column="27" selection-end-line="173" selection-end-column="27" />
+          <folding>
+            <element signature="e#7284#7285#0" expanded="true" />
+            <element signature="e#7312#7313#0" expanded="true" />
+            <element signature="e#83188#83189#0" expanded="true" />
+            <element signature="e#83250#83251#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5742">
+          <caret line="353" column="13" selection-start-line="353" selection-start-column="13" selection-end-line="353" selection-end-column="13" />
+          <folding>
+            <element signature="e#6283#6284#0" expanded="true" />
+            <element signature="e#6351#6352#0" expanded="true" />
+            <element signature="e#10361#10362#0" expanded="true" />
+            <element signature="e#10388#10389#0" expanded="true" />
+            <element signature="e#10570#10571#0" expanded="true" />
+            <element signature="e#10602#10603#0" expanded="true" />
+            <element signature="e#11079#11080#0" expanded="true" />
+            <element signature="e#11117#11118#0" expanded="true" />
+            <element signature="e#13713#13714#0" expanded="true" />
+            <element signature="e#13768#13769#0" expanded="true" />
+            <element signature="e#15586#15587#0" expanded="true" />
+            <element signature="e#15631#15632#0" expanded="true" />
+            <element signature="e#31007#31008#0" expanded="true" />
+            <element signature="e#31039#31040#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3348">
+          <caret line="211" column="28" selection-start-line="211" selection-start-column="28" selection-end-line="211" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="846">
+          <caret line="70" column="2" selection-start-line="70" selection-start-column="2" selection-end-line="70" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zoran/leetcode/medium5/Test214.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="23" column="24" lean-forward="true" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructure/src/com/zoran/data/list/ArrayListTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-190">
+          <caret line="33" column="3" selection-start-line="33" selection-start-column="3" selection-end-line="33" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/System.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="919">
+          <caret line="507" column="29" selection-start-line="507" selection-start-column="29" selection-end-line="507" selection-end-column="29" />
+          <folding>
+            <element signature="e#11566#11567#0" expanded="true" />
+            <element signature="e#11597#11598#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/Locale.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="2297" column="16" selection-start-line="2297" selection-start-column="16" selection-end-line="2297" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/Comparable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="95" column="17" selection-start-line="95" selection-start-column="17" selection-end-line="95" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/LinkedHashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="191" column="17" selection-start-line="191" selection-start-column="17" selection-end-line="191" selection-end-column="17" />
+          <folding>
+            <element signature="e#8806#8807#0" expanded="true" />
+            <element signature="e#8859#8860#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zoran/leetcode/medium5/Test215.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="29" column="22" lean-forward="true" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zoran/leetcode/medium5/Test216.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" selection-start-line="2" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zoran/leetcode/simple2/Test37.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zoran/leetcode/simple2/Test43.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zoran/leetcode/medium5/Test217.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="4405" column="25" selection-start-line="4405" selection-start-column="25" selection-end-line="4405" selection-end-column="25" />
           <folding>
             <element signature="e#5027#5028#0" expanded="true" />
             <element signature="e#5098#5099#0" expanded="true" />
@@ -1118,24 +989,151 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zoran/leetcode/medium5/Test209.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/Integer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" selection-start-line="6" selection-end-line="12" selection-end-column="28" />
+        <state relative-caret-position="581">
+          <caret line="628" column="33" lean-forward="true" selection-start-line="628" selection-start-column="33" selection-end-line="628" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/com/sun/org/apache/xpath/internal/Expression.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="354">
+          <caret line="155" column="3" lean-forward="true" selection-start-line="155" selection-start-column="3" selection-end-line="155" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/com/sun/org/apache/xpath/internal/operations/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="32" column="62" lean-forward="true" selection-start-line="32" selection-start-column="62" selection-end-line="32" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/javax/print/DocFlavor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="1288" column="24" selection-start-line="1288" selection-start-column="24" selection-end-line="1288" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="545">
+          <caret line="1709" column="6" lean-forward="true" selection-start-line="1709" selection-start-column="6" selection-end-line="1709" selection-end-column="6" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="docComment;method#change#0;class#Test209#0" />
+            <element signature="e#66457#66458#0" expanded="true" />
+            <element signature="e#66495#66496#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zoran/leetcode/medium5/Test210.java">
+    <entry file="file://$PROJECT_DIR$/src/com/zoran/leetcode/medium5/Test218.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="55" selection-start-line="6" selection-start-column="55" selection-end-line="6" selection-end-column="55" />
+        <state relative-caret-position="555">
+          <caret line="32" column="6" selection-start-line="32" selection-start-column="6" selection-end-line="32" selection-end-column="6" />
           <folding>
-            <element signature="e#190#191#0" expanded="true" />
-            <element signature="e#244#245#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#728#743#0" expanded="true" />
+            <element signature="e#1061#1062#0" expanded="true" />
+            <element signature="e#1102#1103#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zoran/leetcode/medium5/Test219.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="10" lean-forward="true" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zoran/leetcode/medium5/Test220.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="24" column="28" lean-forward="true" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zoran/leetcode/medium5/Test221.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/Objects.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="57" column="26" selection-start-line="57" selection-start-column="26" selection-end-line="57" selection-end-column="26" />
+          <folding>
+            <element signature="e#1410#1411#0" expanded="true" />
+            <element signature="e#1471#1472#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="347">
+          <caret line="785" column="24" selection-start-line="785" selection-start-column="24" selection-end-line="785" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/function/BiFunction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="52" column="6" selection-start-line="52" selection-start-column="6" selection-end-line="52" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/AbstractMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="545" column="18" selection-start-line="545" selection-start-column="18" selection-end-line="545" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="1939" column="41" selection-start-line="1939" selection-start-column="41" selection-end-line="1939" selection-end-column="41" />
+          <folding>
+            <element signature="e#19103#19104#0" expanded="true" />
+            <element signature="e#19161#19162#0" expanded="true" />
+            <element signature="e#19327#19328#0" expanded="true" />
+            <element signature="e#19410#19411#0" expanded="true" />
+            <element signature="e#21107#21108#0" expanded="true" />
+            <element signature="e#21134#21135#0" expanded="true" />
+            <element signature="e#21334#21335#0" expanded="true" />
+            <element signature="e#21366#21367#0" expanded="true" />
+            <element signature="e#23628#23629#0" expanded="true" />
+            <element signature="e#23682#23683#0" expanded="true" />
+            <element signature="e#24329#24330#0" expanded="true" />
+            <element signature="e#24394#24395#0" expanded="true" />
+            <element signature="e#31057#31058#0" expanded="true" />
+            <element signature="e#31095#31096#0" expanded="true" />
+            <element signature="e#42259#42260#0" expanded="true" />
+            <element signature="e#42335#42336#0" expanded="true" />
+            <element signature="e#66765#66766#0" expanded="true" />
+            <element signature="e#66822#66823#0" expanded="true" />
+            <element signature="e#68865#68866#0" expanded="true" />
+            <element signature="e#68916#68917#0" expanded="true" />
+            <element signature="e#71488#71489#0" expanded="true" />
+            <element signature="e#71570#71571#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructure/src/com/zoran/data/map/HashMapTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
