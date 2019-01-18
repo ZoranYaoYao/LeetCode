@@ -66,7 +66,7 @@ public class HashMapTest {
         System.out.println(map5.getClass());
 
         /** ±éÀú*/
-        HashMap<Integer, Integer> map6 = new HashMap<>(); map6.put(1,1);map6.put(2,2);map6.put(3,3);
+        HashMap<Integer, Integer> map6 = new HashMap<>(); map6.put(10,1);map6.put(2,2);map6.put(3,3);
         for(Integer item : map6.keySet()) {
             System.out.println(item);
         }

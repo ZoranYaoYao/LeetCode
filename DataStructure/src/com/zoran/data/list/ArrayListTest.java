@@ -45,7 +45,7 @@ public class ArrayListTest {
 
         /** 改*/
         list = new ArrayList<>();list.add("1");list.add("2");list.add("3");
-        list.set(0, "A");
+        list.set(0, "LinkedHashMapTest");
         //替换所有元素
         list.replaceAll(new UnaryOperator<String>() {
             @Override
