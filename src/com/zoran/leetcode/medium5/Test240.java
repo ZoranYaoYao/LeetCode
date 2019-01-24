@@ -30,6 +30,9 @@ public class Test240 {
                 if (j>needs.get(j)) break;
             }
         }
+
+        return -1;
+
     }
 }
 
