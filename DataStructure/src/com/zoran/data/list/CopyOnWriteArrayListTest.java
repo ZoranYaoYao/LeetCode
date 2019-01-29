@@ -42,7 +42,7 @@ public class CopyOnWriteArrayListTest {
         CopyOnWriteArrayList<String> list = new CopyOnWriteArrayList<>();
         list.add("0"); //1
         list.add(1, "1"); //2
-        list.addIfAbsent("2") //Core. 没有时，进行添加
+        list.addIfAbsent("2"); //Core. 没有时，进行添加
         CopyOnWriteArrayList<String> anotherList = new CopyOnWriteArrayList<String>();anotherList.add("2");
         list.addAll(anotherList); //3
         list.addAll(0,anotherList); //4
