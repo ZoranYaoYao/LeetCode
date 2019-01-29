@@ -10,6 +10,7 @@ import java.util.function.BiFunction;
  * refer:
  * https://www.cnblogs.com/leesf456/p/5453341.html
  * https://www.cnblogs.com/dolphin0520/p/3932905.html
+ * http://www.importnew.com/28263.html
  *
  * 并发原理实现
  * 1. 通过用CAS 小颗粒的自旋操作保证同步
@@ -104,40 +105,40 @@ public class ConcurrentHashMapTest {
 /**
  * 源码抽离 解析
  */
-class ConcurrentHashMap_Copy {
-    /** 记录容器的容量大小，通过CAS更新*/
-    private transient volatile long baseCount;
-
-    /** ???sizeCtl等于0是默认值，大于0是扩容的阀值!,当sizeCtl小于0说明有多个线程正则等待扩容结果，参考transfer函数*/
-    private transient volatile int sizeCtl;
-
-    /** 转换红黑树阈值*/
-    static final int TREEIFY_THRESHOLD = 8;
-
-    /**
-     * The next table to use; non-null only while resizing.
-     * 扩容的时候，记录的下一个表格，扩容2倍原数组
-     */
-    private transient volatile Node<K,V>[] nextTable;
-
-    //region CAS模块
-    /** 使用Unsafe 获取table索引i最新对象*/
-    static final <K,V> ConcurrentHashMap.Node<K,V> tabAt(ConcurrentHashMap.Node<K,V>[] tab, int i) {
-        return (ConcurrentHashMap.Node<K,V>)U.getObjectVolatile(tab, ((long)i << ASHIFT) + ABASE);
-    }
-
-    /** 使用Unsafe 期望值为c的时候，设置table索引i最新对象为v*/
-    static final <K,V> boolean casTabAt(ConcurrentHashMap.Node<K,V>[] tab, int i,
-                                        ConcurrentHashMap.Node<K,V> c, ConcurrentHashMap.Node<K,V> v) {
-        return U.compareAndSwapObject(tab, ((long)i << ASHIFT) + ABASE, c, v);
-    }
-
-    /** 使用Unsafe 设置table索引i最新对象为v*/
-    static final <K,V> void setTabAt(ConcurrentHashMap.Node<K,V>[] tab, int i, ConcurrentHashMap.Node<K,V> v) {
-        U.putObjectVolatile(tab, ((long)i << ASHIFT) + ABASE, v);
-    }
-    //endregion
-
-}
+//class ConcurrentHashMap_Copy {
+//    /** 记录容器的容量大小，通过CAS更新*/
+//    private transient volatile long baseCount;
+//
+//    /** ???sizeCtl等于0是默认值，大于0是扩容的阀值!,当sizeCtl小于0说明有多个线程正则等待扩容结果，参考transfer函数*/
+//    private transient volatile int sizeCtl;
+//
+//    /** 转换红黑树阈值*/
+//    static final int TREEIFY_THRESHOLD = 8;
+//
+//    /**
+//     * The next table to use; non-null only while resizing.
+//     * 扩容的时候，记录的下一个表格，扩容2倍原数组
+//     */
+//    private transient volatile Node<K,V>[] nextTable;
+//
+//    //region CAS模块
+//    /** 使用Unsafe 获取table索引i最新对象*/
+//    static final <K,V> ConcurrentHashMap.Node<K,V> tabAt(ConcurrentHashMap.Node<K,V>[] tab, int i) {
+//        return (ConcurrentHashMap.Node<K,V>)U.getObjectVolatile(tab, ((long)i << ASHIFT) + ABASE);
+//    }
+//
+//    /** 使用Unsafe 期望值为c的时候，设置table索引i最新对象为v*/
+//    static final <K,V> boolean casTabAt(ConcurrentHashMap.Node<K,V>[] tab, int i,
+//                                        ConcurrentHashMap.Node<K,V> c, ConcurrentHashMap.Node<K,V> v) {
+//        return U.compareAndSwapObject(tab, ((long)i << ASHIFT) + ABASE, c, v);
+//    }
+//
+//    /** 使用Unsafe 设置table索引i最新对象为v*/
+//    static final <K,V> void setTabAt(ConcurrentHashMap.Node<K,V>[] tab, int i, ConcurrentHashMap.Node<K,V> v) {
+//        U.putObjectVolatile(tab, ((long)i << ASHIFT) + ABASE, v);
+//    }
+//    //endregion
+//
+//}
 
 
