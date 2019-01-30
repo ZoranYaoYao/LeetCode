@@ -37,7 +37,7 @@ class Nice_Test247 {
         int[] dp = new int[n+1];
         for (num =1; num <= n; num++) {
             dp[num] = num;
-            i = (int) Math.sqrt(num); //Core 通过开平方根，找2个数相乘
+            i = (int) Math.sqrt(num); //Core 通过开平方根，找2个数相乘,遍历所有的乘极关系
             for (; i>=1; i--) {
                 if (num % i == 0) {
                     int tmp = dp[num/i] + i;
