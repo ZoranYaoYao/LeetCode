@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eaf95abc-7041-4bd5-af02-9eaa40b3dc7d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/DataStructure/src/com/zoran/data/set/CopyOnWriteArraySetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zoran/leetcode/medium5/Test247.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/src/com/zoran/data/list/CopyOnWriteArrayListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/src/com/zoran/data/list/CopyOnWriteArrayListTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -38,7 +37,7 @@
           <entry key="class" value="9" />
           <entry key="gitignore" value="1" />
           <entry key="iml" value="1" />
-          <entry key="java" value="511" />
+          <entry key="java" value="512" />
           <entry key="kt" value="1" />
           <entry key="xml" value="1" />
         </counts>
@@ -47,7 +46,7 @@
         <counts>
           <entry key="CLASS" value="9" />
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="511" />
+          <entry key="JAVA" value="512" />
           <entry key="Kotlin" value="1" />
           <entry key="PLAIN_TEXT" value="1" />
           <entry key="XML" value="1" />
@@ -57,13 +56,13 @@
         <counts>
           <entry key="dummy" value="53" />
           <entry key="gitignore" value="7" />
-          <entry key="java" value="54420" />
+          <entry key="java" value="54785" />
           <entry key="txt" value="18" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="54420" />
+          <entry key="JAVA" value="54785" />
           <entry key="PLAIN_TEXT" value="78" />
         </counts>
       </usages-collector>
@@ -71,16 +70,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DataStructure/src/com/zoran/data/set/CopyOnWriteArraySetTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="6" selection-start-line="6" selection-end-line="18" selection-end-column="17" />
+            <state relative-caret-position="294">
+              <caret line="37" column="8" lean-forward="true" selection-start-line="37" selection-start-column="8" selection-end-line="37" selection-end-column="8" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#299#300#0" expanded="true" />
                 <element signature="e#327#328#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/zoran/leetcode/medium5/Test247.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="10" column="2" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -204,7 +212,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/zoran/leetcode/medium5/Test211.java" />
         <option value="$PROJECT_DIR$/src/com/zoran/leetcode/medium5/Test212.java" />
         <option value="$PROJECT_DIR$/src/com/zoran/leetcode/medium5/Test213.java" />
         <option value="$PROJECT_DIR$/src/com/zoran/leetcode/medium5/Test214.java" />
@@ -255,6 +262,7 @@
         <option value="$PROJECT_DIR$/DataStructure/src/com/zoran/data/set/CopyOnWriteHashSet.java" />
         <option value="$PROJECT_DIR$/DataStructure/src/com/zoran/data/set/CopyOnWriteHashSetTest.java" />
         <option value="$PROJECT_DIR$/DataStructure/src/com/zoran/data/set/CopyOnWriteArraySetTest.java" />
+        <option value="$PROJECT_DIR$/src/com/zoran/leetcode/medium5/Test247.java" />
       </list>
     </option>
   </component>
@@ -264,10 +272,10 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="72" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="76" />
     <option name="y" value="23" />
-    <option name="width" value="1608" />
+    <option name="width" value="802" />
     <option name="height" value="1027" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -351,12 +359,12 @@
             </path>
             <path>
               <item name="LeetCode" type="58d84e3e:PackageViewProjectNode" />
-              <item name="DataStructure" type="616d4139:PackageViewModuleNode" />
-              <item name="com.zoran.data.set" type="1f31426a:PackageElementNode" />
+              <item name="LeetCode" type="616d4139:PackageViewModuleNode" />
             </path>
             <path>
               <item name="LeetCode" type="58d84e3e:PackageViewProjectNode" />
               <item name="LeetCode" type="616d4139:PackageViewModuleNode" />
+              <item name="com.zoran.leetcode.medium5" type="1f31426a:PackageElementNode" />
             </path>
           </expand>
           <select />
@@ -366,7 +374,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="CopyOnWrite&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/concurrent/CopyOnWriteArraySet.java&#10;Copyonw&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/concurrent/CopyOnWriteArraySet.java&#10;Arrali&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/ArrayList.java&#10;CopyOnWriteArrayList&#9;PSI&#9;JAVA://java.util.concurrent.CopyOnWriteArrayList&#10;String&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/String.java&#10;Node&#9;PSI&#9;JAVA://com.zoran.leetcode.medium4.Test175.Node&#10;Hashmap&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/HashMap.java&#10;Striped64&#9;PSI&#9;JAVA://java.util.concurrent.atomic.Striped64&#10;Conc&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/concurrent/ConcurrentHashMap.java&#10;Concurr&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/concurrent/ConcurrentHashMap.java&#10;Concur&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/concurrent/ConcurrentHashMap.java&#10;HashMap&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/HashMap.java&#10;AtomicStampedReference&#9;PSI&#9;JAVA://java.util.concurrent.atomic.AtomicStampedReference&#10;AtomicInteger&#9;PSI&#9;JAVA://java.util.concurrent.atomic.AtomicInteger&#10;Unsafe&#9;PSI&#9;JAVA://sun.misc.Unsafe&#10;ReentrantLock&#9;PSI&#9;JAVA://java.util.concurrent.locks.ReentrantLock&#10;Concu&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/concurrent/ConcurrentHashMap.java&#10;Stringbuilder&#9;PSI&#9;JAVA://java.lang.StringBuilder&#10;stringbu&#9;PSI&#9;JAVA://java.lang.StringBuffer&#10;LinkedHashMap&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/LinkedHashMap.java&#10;treemap&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/TreeMap.java&#10;Concurren&#9;PSI&#9;JAVA://java.util.concurrent.ConcurrentHashMap&#10;Sorted&#9;PSI&#9;JAVA://java.util.SortedMap&#10;ArrayList&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/ArrayList.java&#10;En&#9;ACTION&#9;Maven.AddManagedFiles&#10;Inte&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/Integer.java&#10;Arrays&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/Arrays.java&#10;Arraylis&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/ArrayList.java&#10;Hash&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/HashMap.java&#10;HashMa&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/HashMap.java&#10;stack&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/Stack.java&#10;Vec&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/Vector.java&#10;ArrayQueue&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/com/sun/jmx/remote/internal/ArrayQueue.java&#10;linked&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/LinkedList.java&#10;arrayqueue&#9;PSI&#9;JAVA://com.sun.jmx.remote.internal.ArrayQueue&#10;linke&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/LinkedList.java&#10;link&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/LinkedList.java&#10;LinkedList&#9;PSI&#9;JAVA://java.util.LinkedList&#10;math&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/Math.java&#10;Collections&#9;PSI&#9;JAVA://java.util.Collections&#10;Math&#9;PSI&#9;JAVA://java.lang.Math&#10;Random&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/Random.java&#10;Compara&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/Comparator.java&#10;Comparator&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/Comparator.java&#10;comparator&#9;PSI&#9;JAVA://java.util.Comparator&#10;Threadpo&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/concurrent/ThreadPoolExecutor.java&#10;callerrunpo&#9;PSI&#9;JAVA://java.util.concurrent.ThreadPoolExecutor.CallerRunsPolicy&#10;Execu&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/concurrent/Executors.java&#10;Execse&#9;PSI&#9;JAVA://java.util.concurrent.ExecutorService&#10;StringBuf&#9;PSI&#9;JAVA://java.lang.StringBuffer" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548734068569" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548811694319" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -620,7 +628,14 @@
       <option name="project" value="LOCAL" />
       <updated>1548732352012</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary=" * CopyOnWriteArraySet&#10;&#10; * refer:&#10; * https://www.cnblogs.com/leesf456/p/5549138.html&#10; *&#10; * 底层原理：&#10; * 包装CopyOnWriteArrayList实现&#10; *&#10; * 用法: 与HashSet一致&#10; *&#10; * 2个特殊方法：&#10; * addIfAbsent()&#10; * addAllAbsent()">
+      <created>1548734123537</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1548734123537</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TodoView">
@@ -633,10 +648,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="72" y="23" width="1608" height="1027" extended-state="0" />
+    <frame x="76" y="23" width="1604" height="1027" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4989796" visible="true" weight="0.19667944" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4989796" weight="0.19667944" />
       <window_info id="Image Layers" order="1" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -723,7 +738,8 @@
     <MESSAGE value=" * Dota2 参议院&#10; &#10; * https://leetcode-cn.com/submissions/detail/12170149/&#10; * &#10; * 通过队列，进行一轮比较之后，添加N作为权值的轮回和减弱！！" />
     <MESSAGE value=" * ConcurrentHashMap 源码分析&#10; &#10; * refer:&#10; * https://www.cnblogs.com/leesf456/p/5453341.html&#10; * https://www.cnblogs.com/dolphin0520/p/3932905.html&#10; *&#10; * 并发原理实现&#10; * 1. 通过用CAS 小颗粒的自旋操作保证同步&#10; * 2. 锁住Node[] table的头节点，实现分段技术&#10; *&#10; * 用法跟HashMap一模一样，底层数据结构也是一模一样&#10; *&#10; * Core:&#10; * ConcurrentHashMap可以做到读取数据不加锁，并且其内部的结构可以让其在进行写操作的时候能够将锁的粒度保持地尽量地小，不用对整个ConcurrentHashMap加锁" />
     <MESSAGE value=" * CopyOnWriteArrayList&#10;&#10; * refer:&#10; * https://www.cnblogs.com/chengxiao/p/6881974.html （rebase）&#10; * https://www.cnblogs.com/dolphin0520/p/3938914.html&#10; * https://www.cnblogs.com/leesf456/p/5547853.html&#10; *&#10; * 原理：&#10; * 1.添加时，通过加重入锁，复制原来的数组而成的&#10; * 2.CopyOnWriteArrayList的源码很简单，其主要用到的快照的思路，使得在迭代的过程中，&#10; * 只是Object数组之前的某个快照，而不是最新的Object，这样可以保证在迭代的过程中不会抛出ConcurrentModificationException异常。&#10; *&#10; * 优点：&#10; * 1.CopyOnWriteArrayList是一个线程安全，读操作时无锁的ArrayList&#10; *&#10; * 缺点：&#10; * 1.内存占用问题&#10; * 2.数据一致性问题&#10; *&#10; * 结论：&#10; * 1.如果想线性安全的话，读写都要进行加锁，才能保证实时环境也是线性安全的，eg:Vector&#10; * 2.增删改上锁、读不上锁&#10; * 3.读多写少且脏数据影响不大的并发情况下，选择CopyOnWriteArrayList" />
-    <option name="LAST_COMMIT_MESSAGE" value=" * CopyOnWriteArrayList&#10;&#10; * refer:&#10; * https://www.cnblogs.com/chengxiao/p/6881974.html （rebase）&#10; * https://www.cnblogs.com/dolphin0520/p/3938914.html&#10; * https://www.cnblogs.com/leesf456/p/5547853.html&#10; *&#10; * 原理：&#10; * 1.添加时，通过加重入锁，复制原来的数组而成的&#10; * 2.CopyOnWriteArrayList的源码很简单，其主要用到的快照的思路，使得在迭代的过程中，&#10; * 只是Object数组之前的某个快照，而不是最新的Object，这样可以保证在迭代的过程中不会抛出ConcurrentModificationException异常。&#10; *&#10; * 优点：&#10; * 1.CopyOnWriteArrayList是一个线程安全，读操作时无锁的ArrayList&#10; *&#10; * 缺点：&#10; * 1.内存占用问题&#10; * 2.数据一致性问题&#10; *&#10; * 结论：&#10; * 1.如果想线性安全的话，读写都要进行加锁，才能保证实时环境也是线性安全的，eg:Vector&#10; * 2.增删改上锁、读不上锁&#10; * 3.读多写少且脏数据影响不大的并发情况下，选择CopyOnWriteArrayList" />
+    <MESSAGE value=" * CopyOnWriteArraySet&#10;&#10; * refer:&#10; * https://www.cnblogs.com/leesf456/p/5549138.html&#10; *&#10; * 底层原理：&#10; * 包装CopyOnWriteArrayList实现&#10; *&#10; * 用法: 与HashSet一致&#10; *&#10; * 2个特殊方法：&#10; * addIfAbsent()&#10; * addAllAbsent()" />
+    <option name="LAST_COMMIT_MESSAGE" value=" * CopyOnWriteArraySet&#10;&#10; * refer:&#10; * https://www.cnblogs.com/leesf456/p/5549138.html&#10; *&#10; * 底层原理：&#10; * 包装CopyOnWriteArrayList实现&#10; *&#10; * 用法: 与HashSet一致&#10; *&#10; * 2个特殊方法：&#10; * addIfAbsent()&#10; * addAllAbsent()" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -862,13 +878,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/Thread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="318">
-          <caret line="281" column="30" selection-start-line="281" selection-start-column="30" selection-end-line="281" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/DataStructure/src/com/zoran/data/map/TreeMapTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="320">
@@ -1284,13 +1293,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/DataStructure/src/com/zoran/data/set/CopyOnWriteArraySetTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" selection-start-line="6" selection-end-line="18" selection-end-column="17" />
+        <state relative-caret-position="294">
+          <caret line="37" column="8" lean-forward="true" selection-start-line="37" selection-start-column="8" selection-end-line="37" selection-end-column="8" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#299#300#0" expanded="true" />
             <element signature="e#327#328#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zoran/leetcode/medium5/Test247.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="2" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
         </state>
       </provider>
     </entry>
