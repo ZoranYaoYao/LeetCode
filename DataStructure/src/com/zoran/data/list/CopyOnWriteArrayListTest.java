@@ -20,7 +20,7 @@ import java.util.concurrent.CopyOnWriteArrayList;
  *
  * 缺点：
  * 1.内存占用问题
- * 2.数据一致性问题
+ * 2.数据实时一致性问题
  *
  * 结论：
  * 1.如果想线性安全的话，读写都要进行加锁，才能保证实时环境也是线性安全的，eg:Vector
