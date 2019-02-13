@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eaf95abc-7041-4bd5-af02-9eaa40b3dc7d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/zoran/leetcode/medium6/Test263.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zoran/leetcode/medium6/Test264.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -39,7 +39,7 @@
           <entry key="fdsa" value="1" />
           <entry key="gitignore" value="1" />
           <entry key="iml" value="1" />
-          <entry key="java" value="620" />
+          <entry key="java" value="621" />
           <entry key="kt" value="1" />
           <entry key="xml" value="1" />
         </counts>
@@ -48,7 +48,7 @@
         <counts>
           <entry key="CLASS" value="9" />
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="620" />
+          <entry key="JAVA" value="621" />
           <entry key="Kotlin" value="1" />
           <entry key="PLAIN_TEXT" value="2" />
           <entry key="XML" value="1" />
@@ -58,13 +58,13 @@
         <counts>
           <entry key="dummy" value="53" />
           <entry key="gitignore" value="7" />
-          <entry key="java" value="63702" />
+          <entry key="java" value="64286" />
           <entry key="txt" value="27" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="63702" />
+          <entry key="JAVA" value="64286" />
           <entry key="PLAIN_TEXT" value="87" />
         </counts>
       </usages-collector>
@@ -72,19 +72,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DataStructure/src/com/zoran/data/array/PriorityQueueTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="22" column="44" selection-start-line="22" selection-start-column="44" selection-end-line="22" selection-end-column="44" />
-              <folding>
-                <element signature="e#437#438#0" expanded="true" />
-                <element signature="e#465#466#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/PriorityQueue.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -154,11 +141,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/zoran/leetcode/medium6/Test263.java">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-280">
+              <caret line="24" column="41" lean-forward="true" selection-start-line="24" selection-start-column="41" selection-end-line="24" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/zoran/leetcode/medium6/Test264.java">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
-              <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+              <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -251,7 +247,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/zoran/leetcode/medium5/Test232.java" />
         <option value="$PROJECT_DIR$/src/com/zoran/leetcode/medium5/Test233.java" />
         <option value="$PROJECT_DIR$/src/com/zoran/leetcode/medium5/Test234.java" />
         <option value="$PROJECT_DIR$/src/com/zoran/leetcode/medium5/Test235.java" />
@@ -302,6 +297,7 @@
         <option value="$PROJECT_DIR$/DesignPatterns/src/com/zoran/dp/visitor/Visitor.java" />
         <option value="$PROJECT_DIR$/src/com/zoran/leetcode/medium6/Test262.java" />
         <option value="$PROJECT_DIR$/src/com/zoran/leetcode/medium6/Test263.java" />
+        <option value="$PROJECT_DIR$/src/com/zoran/leetcode/medium6/Test264.java" />
       </list>
     </option>
   </component>
@@ -311,7 +307,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="x" value="72" />
     <option name="y" value="23" />
     <option name="width" value="804" />
@@ -387,12 +383,18 @@
             </path>
             <path>
               <item name="LeetCode" type="58d84e3e:PackageViewProjectNode" />
-              <item name="DataStructure" type="616d4139:PackageViewModuleNode" />
-              <item name="com.zoran.data.array" type="1f31426a:PackageElementNode" />
+              <item name="LeetCode" type="616d4139:PackageViewModuleNode" />
             </path>
             <path>
               <item name="LeetCode" type="58d84e3e:PackageViewProjectNode" />
               <item name="LeetCode" type="616d4139:PackageViewModuleNode" />
+              <item name="com.zoran.leetcode.medium6" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="58d84e3e:PackageViewProjectNode" />
+              <item name="LeetCode" type="616d4139:PackageViewModuleNode" />
+              <item name="com.zoran.leetcode.medium6" type="1f31426a:PackageElementNode" />
+              <item name="Test263.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
           </expand>
           <select />
@@ -402,7 +404,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="Weakhash&#9;PSI&#9;JAVA://java.util.WeakHashMap&#10;PriorityQueue&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/PriorityQueue.java&#10;LinkedLis&#9;PSI&#9;JAVA://java.util.LinkedList&#10;ArrayQueue&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/com/sun/jmx/remote/internal/ArrayQueue.java&#10;LInkedlist&#9;PSI&#9;JAVA://java.util.LinkedList&#10;LInkedlis&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/LinkedList.java&#10;Arrays&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/Arrays.java&#10;CopyOnWrite&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/concurrent/CopyOnWriteArraySet.java&#10;Copyonw&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/concurrent/CopyOnWriteArraySet.java&#10;Arrali&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/ArrayList.java&#10;CopyOnWriteArrayList&#9;PSI&#9;JAVA://java.util.concurrent.CopyOnWriteArrayList&#10;String&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/String.java&#10;Node&#9;PSI&#9;JAVA://com.zoran.leetcode.medium4.Test175.Node&#10;Hashmap&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/HashMap.java&#10;Striped64&#9;PSI&#9;JAVA://java.util.concurrent.atomic.Striped64&#10;Conc&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/concurrent/ConcurrentHashMap.java&#10;Concurr&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/concurrent/ConcurrentHashMap.java&#10;Concur&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/concurrent/ConcurrentHashMap.java&#10;HashMap&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/HashMap.java&#10;AtomicStampedReference&#9;PSI&#9;JAVA://java.util.concurrent.atomic.AtomicStampedReference&#10;AtomicInteger&#9;PSI&#9;JAVA://java.util.concurrent.atomic.AtomicInteger&#10;Unsafe&#9;PSI&#9;JAVA://sun.misc.Unsafe&#10;ReentrantLock&#9;PSI&#9;JAVA://java.util.concurrent.locks.ReentrantLock&#10;Concu&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/concurrent/ConcurrentHashMap.java&#10;Stringbuilder&#9;PSI&#9;JAVA://java.lang.StringBuilder&#10;stringbu&#9;PSI&#9;JAVA://java.lang.StringBuffer&#10;LinkedHashMap&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/LinkedHashMap.java&#10;treemap&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/TreeMap.java&#10;Concurren&#9;PSI&#9;JAVA://java.util.concurrent.ConcurrentHashMap&#10;Sorted&#9;PSI&#9;JAVA://java.util.SortedMap&#10;ArrayList&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/ArrayList.java&#10;En&#9;ACTION&#9;Maven.AddManagedFiles&#10;Inte&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/Integer.java&#10;Arraylis&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/ArrayList.java&#10;Hash&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/HashMap.java&#10;HashMa&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/HashMap.java&#10;stack&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/Stack.java&#10;Vec&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/Vector.java&#10;linked&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/LinkedList.java&#10;arrayqueue&#9;PSI&#9;JAVA://com.sun.jmx.remote.internal.ArrayQueue&#10;linke&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/LinkedList.java&#10;link&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/LinkedList.java&#10;LinkedList&#9;PSI&#9;JAVA://java.util.LinkedList&#10;math&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/Math.java&#10;Collections&#9;PSI&#9;JAVA://java.util.Collections&#10;Math&#9;PSI&#9;JAVA://java.lang.Math&#10;Random&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/Random.java&#10;Compara&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/Comparator.java&#10;Comparator&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/Comparator.java&#10;comparator&#9;PSI&#9;JAVA://java.util.Comparator" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550024433095" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550026332396" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -742,10 +744,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="72" y="23" width="1608" height="1027" extended-state="6" />
+    <frame x="72" y="23" width="804" height="1027" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4989796" weight="0.3844189" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4989796" weight="0.19220945" />
       <window_info id="Image Layers" order="1" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -996,13 +998,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/DataStructure/src/com/zoran/data/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" selection-start-line="3" selection-end-line="8" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/HashMap.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="303">
@@ -1388,8 +1383,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/zoran/leetcode/medium6/Test263.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-280">
+          <caret line="24" column="41" lean-forward="true" selection-start-line="24" selection-start-column="41" selection-end-line="24" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zoran/leetcode/medium6/Test264.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
-          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
         </state>
       </provider>
     </entry>
