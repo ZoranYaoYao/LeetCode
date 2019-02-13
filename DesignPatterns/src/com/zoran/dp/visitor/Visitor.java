@@ -1,4 +1,4 @@
-package com.zoran.dp.Visitor;
+package com.zoran.dp.visitor;
 
 /**
  * http://www.cnblogs.com/java-my-life/archive/2012/06/14/2545381.html
