@@ -39,8 +39,8 @@ public class ArrayListTest {
 
         //求2个集合的交集
         list = new ArrayList<>();list.add("1");list.add("2");list.add("3");
-        anotherList = new ArrayList<>();anotherList.add("1");anotherList.add("3");
-        list.retainAll(anotherList);  //4
+        anotherList = new ArrayList<>();anotherList.add("5");anotherList.add("4");
+        boolean contains = list.retainAll(anotherList);  //4
         System.out.println(list);
 
         /** 改*/
