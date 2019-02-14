@@ -8,6 +8,32 @@ import java.util.Arrays;
 public class 二分查找算法 {
 
 	/**
+	 * Android源码中的标准二分查找格式
+	 */
+	class ContainerHelpers {
+
+		// This is Arrays.binarySearch(), but doesn't do any argument validation.
+		 int binarySearch(int[] array, int size, int value) {
+			int lo = 0;
+			int hi = size - 1;
+
+			while (lo <= hi) {
+				final int mid = (lo + hi) >>> 1;
+				final int midVal = array[mid];
+
+				if (midVal < value) {
+					lo = mid + 1;
+				} else if (midVal > value) {
+					hi = mid - 1;
+				} else {
+					return mid;  // value found
+				}
+			}
+			return ~lo;  // value not present
+		}
+	}
+
+	/**
 	 * 搜索二维矩阵
 	 * https://leetcode-cn.com/submissions/detail/6883442/
 	 */

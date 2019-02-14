@@ -17,6 +17,8 @@ public class HashMapTest {
     public static void main(String[] args) {
         HashMap<Integer, Integer> map = new HashMap<>(9, 0.75f);
         methodTest(map);
+        int lo = 0;
+        System.out.println("~0 = " + ~0);
     }
 
     private static void methodTest(HashMap<Integer, Integer> map) {
