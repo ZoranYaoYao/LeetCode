@@ -41,7 +41,10 @@ public class Test273 {
                     int[] temp = list.get(i);
                     /**如何找出2个区间的交集？？？*/
                     /***/
-                    if (end > temp[0] && start < temp[1]) {
+//                    if (end > temp[0] && start < temp[1]) {
+//                        return false;
+//                    }
+                    if (Math.max(start, temp[0]) > Math.min(end, temp[1])) {
                         return false;
                     }
                 }
