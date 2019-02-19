@@ -6,6 +6,9 @@ package com.zoran.data.array;
  * refer:
  * https://blog.csdn.net/wzy_1988/article/details/51559012
  *
+ * 底层数据结构
+ * int[] key有序插入，Object[] value, 对应索引存储
+ *
  * Android 优化的HashMap结构
  * 限制：
  * 只能针对 key 为int的HashMap结构
