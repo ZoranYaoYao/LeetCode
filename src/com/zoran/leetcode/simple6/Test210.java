@@ -26,6 +26,7 @@ public class Test210 {
                 { //发现正方形区域内的值存在不同，说明不是叶节点，调用递归得到子节点
                     Node root=new Node(true,false,null,null,null,null);
                     root.topLeft=helper(grid,x,y,n/2);
+                    //Core. 记录X,Y的值，并把长度缩减到原来的1/2
                     root.topRight=helper(grid,x,y+n/2,n/2);
                     root.bottomLeft=helper(grid,x+n/2,y,n/2);
                     root.bottomRight=helper(grid,x+n/2,y+n/2,n/2);
