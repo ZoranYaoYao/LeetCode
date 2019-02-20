@@ -1,4 +1,4 @@
-package com.zoran.data.array;
+package com.zoran.data.array.concurrent;
 
 import java.util.ArrayList;
 import java.util.List;

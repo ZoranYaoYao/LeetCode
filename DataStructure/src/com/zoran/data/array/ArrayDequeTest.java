@@ -3,7 +3,7 @@ package com.zoran.data.array;
 import java.util.*;
 
 /**
- * ArrayDequue: Array Double end queue
+ * ArrayDeque: Array Double end queue
  *
  * 底层数据结构：
  * 1. 循环数组
