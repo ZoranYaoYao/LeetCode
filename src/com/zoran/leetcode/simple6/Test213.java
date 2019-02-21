@@ -65,5 +65,6 @@ class LeetCode_Test213 {
                     res -= Math.min(grid[i][j-1], grid[i][j])*2;
             }
         }
+        return res;
     }
 }
