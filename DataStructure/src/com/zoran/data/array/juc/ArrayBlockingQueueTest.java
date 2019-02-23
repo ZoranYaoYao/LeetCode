@@ -25,15 +25,7 @@ import java.util.concurrent.TimeUnit;
  * API使用：
  * ArrayDeque的并发对象，去除Deque接口的方法！
  */
-public class ArrayBlockingQueueTest extends ArrayBlockingQueue {
-
-    public ArrayBlockingQueueTest(int capacity) {
-        super(capacity);
-    }
-
-    public ArrayBlockingQueueTest(int capacity, boolean fair) {
-        super(capacity, fair);
-    }
+public class ArrayBlockingQueueTest {
 
     public static void main(String[] args) throws InterruptedException {
         methodTest();
@@ -41,16 +33,18 @@ public class ArrayBlockingQueueTest extends ArrayBlockingQueue {
 
     private static void methodTest() throws InterruptedException {
         ArrayBlockingQueue<String> abq = new ArrayBlockingQueue<>(16);
+        abq.add("1");abq.add("2");abq.add("3");abq.add("4");abq.add("5");
+
 
         /**
          * 阻塞式方法
          */
         //?Core. 通过Condition条件类就你行阻塞方法！！
-        abq.add("1");abq.add("2");abq.add("3");abq.add("4");abq.add("5");
-        abq.take();
-        abq.poll(2000, TimeUnit.MILLISECONDS);
         abq.put("123");
         abq.offer("123",2000, TimeUnit.MILLISECONDS);
+
+        abq.take();
+        abq.poll(2000, TimeUnit.MILLISECONDS);
 
         /** 增*/
         abq.add("1"); //末尾添加
