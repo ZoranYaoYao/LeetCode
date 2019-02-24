@@ -13,7 +13,7 @@ import java.util.concurrent.TimeUnit;
  * https://blog.csdn.net/zmx729618/article/details/52980158
  *
  * 底层原理
- * 无集合存储结构！！
+ * 无集合存储结构！！当有任务(Runnable)添加到SynchronousQueue时，直接跟线程里面匹配，如果没有匹配上，就创建一个新的线程进行执行！！
  *
  * 运用：
  * 线程池(Executors) 中的Executors.newCachedThreadPool()
