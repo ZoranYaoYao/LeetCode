@@ -15,7 +15,8 @@ import java.util.concurrent.TimeUnit;
  * 一个单向链表 + 2把锁 + 2个条件
  *
  * 运用：
- * ExecutorService executors = Executors.newFixedThreadPool(16);  * 获取固定线程个数的线程池
+ * ExecutorService executors = Executors.newFixedThreadPool(16);  获取固定线程个数的线程池
+ * ExecutorService executors2 = Executors.newSingleThreadExecutor(); 获取单个线程的线程池
  *
  * API用法：
  * 与ArrayBlockingQueue类似
