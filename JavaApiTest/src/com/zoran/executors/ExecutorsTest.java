@@ -38,7 +38,12 @@ public class ExecutorsTest {
          * 运用场景：
          * 高并发的临时任务多的环境
          */
-        ExecutorService executorService = Executors.newCachedThreadPool();
+        ExecutorService cacheExecutorService = Executors.newCachedThreadPool();
+
+        /**
+         * 执行有延迟的工作
+         */
+        ExecutorService executorService = Executors.newScheduledThreadPool(4);
 
 
     }

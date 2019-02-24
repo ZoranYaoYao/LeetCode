@@ -32,7 +32,7 @@ public class S7堆排序 {
 
         //2.调整堆结构+交换堆顶元素与末尾元素
         for (int j = arr.length - 1; j > 0; j--) {
-            //将堆顶元素与末尾元素进行交换
+            //NNice_Core.将堆顶元素与末尾元素进行交换, 相当于末尾值就是最大的值！！
             int temp = arr[0];
             arr[0] = arr[j];
             arr[j] = temp;
