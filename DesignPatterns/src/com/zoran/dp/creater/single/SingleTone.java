@@ -77,6 +77,9 @@ class Single3 {
         if (single == null) {
             synchronized (Single3.class) {
                 if (single == null) {
+                    //NNNice_core: 在JDK1.5之前，由于new 创建对象分为3个步骤  步骤:创建引用 步骤:分配内存 步骤:赋值！
+                    // 归咎于 Java 平台内存模型。内存模型允许所谓的“无序写入”，这也是这些习语失败的一个主要原因。 如果先赋值，则就为null了，导致逻辑出错！！
+                    https://blog.csdn.net/chenchaofuck1/article/details/51702129
                     single = new Single3();
                 }
             }

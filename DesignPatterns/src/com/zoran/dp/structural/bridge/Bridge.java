@@ -8,7 +8,7 @@ package com.zoran.dp.structural.bridge;
  * 关联， 多态！
  *
  * refer：
- * https://www.cnblogs.com/chenssy/p/3317866.html
+   https://www.cnblogs.com/chenssy/p/3317866.html
  *
  * 距离：
  * 一维：图像形状
