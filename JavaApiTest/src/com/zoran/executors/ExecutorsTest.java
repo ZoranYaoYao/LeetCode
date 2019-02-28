@@ -9,6 +9,17 @@ import java.util.concurrent.Executors;
  * refer:
  * https://blog.csdn.net/denghonghao/article/details/82428531
  * https://www.cnblogs.com/baizhanshi/p/5469948.html rebase!
+ * https://www.cnblogs.com/dolphin0520/p/3932921.html rebase!!
+ *
+ * 线程池的所有总结都是通过底层原理的实现来定义的！！
+ *
+ * 底层原理:
+ * ReentrantLock 实现线程之间的互斥调用
+ *
+ * 源码:
+ * private final ReentrantLock mainLock = new ReentrantLock();   //线程池的主要状态锁，对线程池状态（比如线程池大小
+ *                                                               //、runState等）的改变都要使用这个锁
+ * private final HashSet<Worker> workers = new HashSet<Worker>();  //用来存放工作集
  */
 public class ExecutorsTest {
 

@@ -6,19 +6,43 @@ import java.lang.ref.SoftReference;
 import java.lang.ref.WeakReference;
 
 public class Test {
+    ThreadLocal<Long> longLocal = new ThreadLocal<Long>();
+    ThreadLocal<String> stringLocal = new ThreadLocal<String>();
 
-    public static void main(String[] args) {
-        SoftReference<Object> soft = new SoftReference<>(new Object());
-        WeakReference<Object> weak = new WeakReference<>(new Object());
-        WeakReference<String> weakString = new WeakReference<>("abc");
-        PhantomReference<Object> phantom = new PhantomReference<>("abc", new ReferenceQueue<>());
-        PhantomReference<Object> phantom2 = new PhantomReference<>(new Object(), new ReferenceQueue<>());
-        System.gc();
-        System.out.println(soft.get());
-        System.out.println(weak.get());
-        System.out.println(weakString.get());
-        System.out.println(phantom.get()); //ÓÀÔ¶·µ»ØÎªnull
-        System.out.println(phantom.isEnqueued());
-        System.out.println(phantom2.isEnqueued());
+    public void set() {
+        longLocal.set(Thread.currentThread().getId());
+        stringLocal.set(Thread.currentThread().getName());
+    }
+
+    public long getLong() {
+        if(longLocal.get() == null) {
+            return 1;
+        } else {
+            return longLocal.get();
+        }
+    }
+
+    public String getString() {
+        return stringLocal.get();
+    }
+
+    public static void main(String[] args) throws InterruptedException {
+        final Test test = new Test();
+
+        System.out.println(test.getLong());
+//        System.out.println(test.getString());
+
+        Thread thread1 = new Thread(){
+            public void run() {
+                test.set();
+                System.out.println(test.getLong());
+//                System.out.println(test.getString());
+            };
+        };
+        thread1.start();
+        thread1.join();
+
+        System.out.println(test.getLong());
+        System.out.println(test.getString());
     }
 }
