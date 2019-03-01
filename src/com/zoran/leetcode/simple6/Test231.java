@@ -6,7 +6,7 @@ import java.util.Arrays;
  * 重复 N 次的元素
  * https://leetcode-cn.com/submissions/detail/13544029/
  */
-public class Test331 {
+public class Test231 {
 
     public int repeatedNTimes(int[] A) {
         //数组排序，对比次数

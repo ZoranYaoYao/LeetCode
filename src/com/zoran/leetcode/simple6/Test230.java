@@ -4,10 +4,10 @@ package com.zoran.leetcode.simple6;
  * —È÷§Õ‚–«”Ô¥ µ‰
  * https://leetcode-cn.com/submissions/detail/13542514/
  */
-public class Test330 {
+public class Test230 {
 
     public static void main(String[] args) {
-        Test330 test330 = new Test330();
+        Test230 test330 = new Test230();
         String[] strings = {"fxasxpc","dfbdrifhp","nwzgs","cmwqriv","ebulyfyve","miracx","sxckdwzv","dtijzluhts","wwbmnge","qmjwymmyox"
         };
         String order = "zkgwaverfimqxbnctdplsjyohu";
