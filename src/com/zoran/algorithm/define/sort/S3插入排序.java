@@ -42,11 +42,13 @@ public class S3插入排序 {
     }
 
     /**
-     * 标准的插入排序
+     * 标准的插入排序 从小到大
      * refer : https://www.cnblogs.com/onepixel/articles/7674659.html#undefined
+     *
+     * 时间复杂度：O(n2)
      */
     private static int[] insertSort2(int[] arr) {
-        //1.外层是次数
+        //1.外层是待排序的游标
         //2. 每次插入都是从后往前插
         //冒泡排序的变种模式
         int len = arr.length;

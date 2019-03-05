@@ -10,8 +10,11 @@ public class B extends A {
     static int a = 0;
     String b = "ss";
 
+    {
+        System.out.println("模拟变量加载B");
+    }
     B() {
-        super(1);
+        super();
         System.out.println("B()");
     }
 
@@ -27,14 +30,17 @@ class A {
     static {
         System.out.println("A static");
         }
+
     static int a = 0;
     String b = "ss";
-
-//    A() {
-//        System.out.println("A()");
-//    }
-
-    A(int i) {
-
+    {
+        b = "-1";
+        System.out.println("模拟变量加载A" + b);
     }
+
+
+    A() {
+        System.out.println("A()");
+    }
+
 }

@@ -5,6 +5,10 @@ package com.zoran.dp.creater.single;
  *
  * refer:
  * http://www.cnblogs.com/java-my-life/archive/2012/03/31/2425631.html
+ *
+ * 1.关于单例模式中饱汉式与饿汉式的final关键字?
+ * https://blog.csdn.net/qq_39986274/article/details/79215311
+ * final 是否释放单例资源， 如果后期已经不需要到这个单利对象了，需要释放资源时，不声明为final就可以进行资源释放
  */
 public class SingleTone {
 
@@ -30,7 +34,11 @@ public class SingleTone {
  * 饿汉式
  */
 class Single1 {
-    private static final Single1 single = new Single1();
+    private static Single1 single = new Single1();
+
+    static {
+        System.out.println("Single1 static");
+    }
 
     private Single1(){
     }
@@ -47,8 +55,7 @@ class Single1 {
  */
 class Single2 {
 
-    private Single2(){
-    }
+    private Single2(){}
 
     public static Single2 getInstance() {
         return Creator.single;
