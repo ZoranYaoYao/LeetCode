@@ -2,18 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eaf95abc-7041-4bd5-af02-9eaa40b3dc7d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/JavaApiTest/src/com/zoran/generic/GenericTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaApiTest/src/com/zoran/reflect/ReflectTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/zoran/algorithm/define/sort/S0排序定义.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/zoran/algorithm/define/快慢指针.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/zoran/leetcode/simple6/Test233.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zoran/leetcode/simple6/Test234.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatterns/src/com/zoran/dp/creater/single/SingleTone.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatterns/src/com/zoran/dp/creater/single/SingleTone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatterns/src/com/zoran/dp/structural/bridge/Bridge.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatterns/src/com/zoran/dp/structural/bridge/Bridge.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaApiTest/src/com/zoran/B.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaApiTest/src/com/zoran/B.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/zoran/algorithm/define/sort/S1冒泡排序.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/zoran/algorithm/define/sort/S1冒泡排序.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/zoran/algorithm/define/sort/S3插入排序.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/zoran/algorithm/define/sort/S3插入排序.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/zoran/algorithm/define/sort/S8计数排序.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/zoran/algorithm/define/sort/S8计数排序.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -49,7 +39,7 @@
           <entry key="fdsa" value="1" />
           <entry key="gitignore" value="1" />
           <entry key="iml" value="1" />
-          <entry key="java" value="995" />
+          <entry key="java" value="996" />
           <entry key="kt" value="1" />
           <entry key="xml" value="1" />
         </counts>
@@ -58,7 +48,7 @@
         <counts>
           <entry key="CLASS" value="19" />
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="995" />
+          <entry key="JAVA" value="996" />
           <entry key="Kotlin" value="1" />
           <entry key="PLAIN_TEXT" value="2" />
           <entry key="XML" value="1" />
@@ -68,13 +58,13 @@
         <counts>
           <entry key="dummy" value="74" />
           <entry key="gitignore" value="7" />
-          <entry key="java" value="88723" />
+          <entry key="java" value="89198" />
           <entry key="txt" value="27" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="88723" />
+          <entry key="JAVA" value="89198" />
           <entry key="PLAIN_TEXT" value="108" />
         </counts>
       </usages-collector>
@@ -82,15 +72,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DesignPatterns/src/com/zoran/dp/structural/bridge/Bridge.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/ref/SoftReference.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -121,14 +102,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/zoran/leetcode/simple6/Test233.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="8" column="55" selection-start-line="8" selection-start-column="55" selection-end-line="8" selection-end-column="55" />
+            <state relative-caret-position="324">
+              <caret line="18" column="22" lean-forward="true" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/zoran/leetcode/simple6/Test234.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="740">
+              <caret line="50" column="46" lean-forward="true" selection-start-line="50" selection-start-column="46" selection-end-line="50" selection-end-column="46" />
             </state>
           </provider>
         </entry>
@@ -250,7 +240,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/DesignPatterns/src/com/zoran/dp/structural/component/Component.java" />
         <option value="$PROJECT_DIR$/DesignPatterns/src/com/zoran/dp/structural/facecade/FaceCade.java" />
         <option value="$PROJECT_DIR$/DesignPatterns/src/com/zoran/dp/structural/decorator/Decorator.java" />
         <option value="$PROJECT_DIR$/DesignPatterns/src/com/zoran/dp/structural/flyweight/FlyWeight.java" />
@@ -301,6 +290,7 @@
         <option value="$PROJECT_DIR$/DesignPatterns/src/com/zoran/dp/structural/bridge/Bridge.java" />
         <option value="$PROJECT_DIR$/JavaApiTest/src/com/zoran/generic/GenericTest.java" />
         <option value="$PROJECT_DIR$/src/com/zoran/leetcode/simple6/Test233.java" />
+        <option value="$PROJECT_DIR$/src/com/zoran/leetcode/simple6/Test234.java" />
       </list>
     </option>
   </component>
@@ -313,7 +303,7 @@
   <component name="ProjectFrameBounds" fullScreen="true">
     <option name="x" value="69" />
     <option name="y" value="23" />
-    <option name="width" value="1611" />
+    <option name="width" value="806" />
     <option name="height" value="1027" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -410,7 +400,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="Queue&#9;PSI&#9;JAVA://java.util.Queue&#10;Number&#9;PSI&#9;JAVA://java.lang.Number&#10;SoftReference&#9;PSI&#9;JAVA://java.lang.ref.SoftReference&#10;Math&#9;PSI&#9;JAVA://java.lang.Math&#10;HashTable&#9;PSI&#9;JAVA://java.util.Hashtable&#10;HashMap&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/HashMap.java&#10;Thread&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/Thread.java&#10;ThreadLocal&#9;PSI&#9;JAVA://java.lang.ThreadLocal&#10;ThreadPoolExecutor&#9;PSI&#9;JAVA://java.util.concurrent.ThreadPoolExecutor&#10;INte&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/concurrent/atomic/AtomicInteger.java&#10;Atomic&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/concurrent/atomic/AtomicInteger.java&#10;Condition&#9;PSI&#9;JAVA://java.util.concurrent.locks.Condition&#10;CyclicBarrier&#9;PSI&#9;JAVA://java.util.concurrent.CyclicBarrier&#10;Semaphore&#9;PSI&#9;JAVA://java.util.concurrent.Semaphore&#10;AtomicInteger&#9;PSI&#9;JAVA://java.util.concurrent.atomic.AtomicInteger&#10;Copyon&#9;PSI&#9;JAVA://com.zoran.data.list.CopyOnWriteArrayListTest&#10;Object&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/Object.java&#10;Observable&#9;PSI&#9;JAVA://java.util.Observable&#10;Iterator&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/Iterator.java&#10;Cloneable&#9;PSI&#9;JAVA://java.lang.Cloneable&#10;Ob&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/Object.java&#10;Runnable&#9;PSI&#9;JAVA://java.lang.Runnable&#10;RunnableScheduledFuture&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/concurrent/RunnableScheduledFuture.java&#10;Executors&#9;FILE&#9;file:///Users/zoran/Eclipse_WorkSpace/LeetCode/JavaApiTest/src/com/zoran/executors/ExecutorsTest.java&#10;ThreadP&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/concurrent/ThreadPoolExecutor.java&#10;SynchronousQueue&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/concurrent/SynchronousQueue.java&#10;ReentrantLock&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/ReentrantLock.java&#10;AbstractQueuedSynchronizer&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java&#10;FutureTask&#9;PSI&#9;JAVA://java.util.concurrent.FutureTask&#10;Reen&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/ReentrantLock.java&#10;Reent&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/ReentrantLock.java&#10;Mutex&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/com/sun/corba/se/impl/orbutil/concurrent/Mutex.java&#10;Reentlock&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/ReentrantLock.java&#10;Objec&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/Object.java&#10;Charac&#9;PSI&#9;JAVA://java.lang.Character&#10;Obje&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/Object.java&#10;ExecutorServ&#9;PSI&#9;JAVA://java.util.concurrent.ExecutorService&#10;Executor&#9;PSI&#9;JAVA://java.util.concurrent.Executor&#10;ArrayBlockingQueue&#9;PSI&#9;JAVA://java.util.concurrent.ArrayBlockingQueue&#10;Comparable&#9;PSI&#9;JAVA://java.lang.Comparable&#10;Comparator&#9;PSI&#9;JAVA://java.util.Comparator&#10;treeSet&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/TreeSet.java&#10;ArrayLI&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/ArrayList.java&#10;Collections&#9;PSI&#9;JAVA://java.util.Collections&#10;ArrayList&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/ArrayList.java&#10;List&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/List.java&#10;Enum&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/Enum.java&#10;String&#9;PSI&#9;JAVA://java.lang.String&#10;Weakhash&#9;PSI&#9;JAVA://java.util.WeakHashMap&#10;PriorityQueue&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/PriorityQueue.java" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551748451966" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551750891981" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -442,7 +432,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.B">
+  <component name="RunManager" selected="Application.Test234">
     <configuration name="B" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.zoran.B" />
       <module name="JavaApiTest" />
@@ -495,12 +485,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zoran.Test" />
-      <module name="JavaApiTest" />
+    <configuration name="Test234" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zoran.leetcode.simple6.Test234" />
+      <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.zoran.*" />
+          <option name="PATTERN" value="com.zoran.leetcode.simple6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -509,19 +499,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Test" />
       <item itemvalue="Application.B" />
       <item itemvalue="Application.S10基数排序" />
       <item itemvalue="Application.ReflectTest" />
       <item itemvalue="Application.SingleTone" />
+      <item itemvalue="Application.Test234" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test234" />
         <item itemvalue="Application.B" />
         <item itemvalue="Application.SingleTone" />
         <item itemvalue="Application.ReflectTest" />
         <item itemvalue="Application.S10基数排序" />
-        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -755,7 +745,7 @@
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4989796" visible="true" weight="0.18009768" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4989796" weight="0.18801785" />
       <window_info id="Image Layers" order="1" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -764,7 +754,7 @@
       <window_info id="Structure" order="6" sideWeight="0.50102043" weight="0.16091955" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32857144" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32959184" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.34545454" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.35306123" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -1099,13 +1089,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/JVM/src/com.zoran.jvm/垃圾回收器/GarbageManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/HashMap.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="311">
@@ -1481,11 +1464,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/zoran/leetcode/simple6/Test233.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="55" selection-start-line="8" selection-start-column="55" selection-end-line="8" selection-end-column="55" />
+        <state relative-caret-position="324">
+          <caret line="18" column="22" lean-forward="true" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zoran/leetcode/simple6/Test234.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="740">
+          <caret line="50" column="46" lean-forward="true" selection-start-line="50" selection-start-column="46" selection-end-line="50" selection-end-column="46" />
         </state>
       </provider>
     </entry>
