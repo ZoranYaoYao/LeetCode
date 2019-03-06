@@ -6,7 +6,7 @@ import java.util.Arrays;
  * refer: https://blog.csdn.net/sinat_20177327/article/details/76560079
  * <p>
  * 时间复杂度: O(nlogn)
- * 空间复杂度: O(1)
+ * 空间复杂度: O(n)
  * <p>
  * 快速排序利用分治思想，将待排序数组分成左右两个部分，然后对其分别递归调用快速排序算法。
  *
