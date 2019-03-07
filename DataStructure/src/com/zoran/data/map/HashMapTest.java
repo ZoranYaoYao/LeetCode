@@ -11,6 +11,19 @@ import java.util.function.BiFunction;
  * 2. HashMap的扩容机制？
  * 3. JDK 1.8的hashMap链表的优化？
  * 4. 单链表是如何转化为红黑树的？
+ *
+ * 二. 扩容机制
+ * loadFactor ： 只有在传参构造器才会时候
+ * threhold: 默认为数组大小的0.75，是扩容阈值。（Note：只有在有参构造函数时，会临时等于2的倍数，其他情况都是，数组大小的2倍*factory!!!!）
+ *
+ * 扩容是针对 Entry个数 > threhold(数组长度*loadFactor) 跟数组长度相关！！
+ * if (++size > threshold)
+ *             resize();
+ * 三.
+ *   HashMap 1.7之前，线性不安全，因为头插法 。 1.8没有这个问题，但是有数据丢失的问题！
+ *   https://www.toutiao.com/a6665069080048828936/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=
+ *   1551932813&app=news_article&utm_source=weixin&iid=65380750003&utm_medium=toutiao_android&group_id=6665069080048828936
+ *
  */
 public class HashMapTest {
 
