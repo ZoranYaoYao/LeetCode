@@ -7,7 +7,7 @@ import java.util.Arrays;
  * https://www.cnblogs.com/0zcl/p/6737944.html
  *
  * 时间复杂度：O(nlogn)
- * 空间复杂度：O(1)
+ * 空间复杂度：O(n)
  *
  * <p>
  * 堆排序（英语：Heapsort）是指利用堆这种数据结构所设计的一种排序算法。堆是一个近似完全二叉树的结构，
