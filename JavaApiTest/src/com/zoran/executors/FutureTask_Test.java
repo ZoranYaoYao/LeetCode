@@ -5,6 +5,9 @@ import java.util.concurrent.*;
 /**
  * FutureTask
  *
+ * refer:
+ * https://mp.weixin.qq.com/s/gpC0CbAkSwVJXbAcn7Siyg
+ *
  * 底层原理
  * 1.FutureTask 继承Runnable接口,重写了run()方法，通过LockSupport进行控制2个线程的结果值状态
  * http://www.cnblogs.com/avalon-merlin/p/9198444.html

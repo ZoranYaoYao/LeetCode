@@ -5,6 +5,7 @@ package com.zoran.threadlocal;
  *
  * refer：
  * https://www.cnblogs.com/dolphin0520/p/3920407.html
+ * https://www.jianshu.com/p/c2a482b48d17 rebase!
  *
  * 原理
  * 当通过ThreadLocal变量调用get()方法或者set()方法，就会对Thread类中的threadLocals进行初始化，
