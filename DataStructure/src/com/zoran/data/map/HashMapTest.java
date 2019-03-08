@@ -13,6 +13,7 @@ import java.util.function.BiFunction;
  * 4. 单链表是如何转化为红黑树的？
  *
  * 二. 扩容机制
+ * https://blog.csdn.net/login_sonata/article/details/76598675
  * loadFactor ： 只有在传参构造器才会时候
  * threhold: 默认为数组大小的0.75，是扩容阈值。（Note：只有在有参构造函数时，会临时等于2的倍数，其他情况都是，数组大小的2倍*factory!!!!）
  *

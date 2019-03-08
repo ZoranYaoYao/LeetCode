@@ -1,10 +1,12 @@
-package com.zoran.base64;
+package com.zoran.encryption.base64;
 
 import java.io.UnsupportedEncodingException;
 import java.util.Base64;
 
 /**
  * https://blog.csdn.net/alex_81d/article/details/80997146
+ *
+ * 用于验证，不用于加密
  */
 public class Base64Test {
 
