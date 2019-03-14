@@ -1,4 +1,4 @@
-package com.zoran.multithread;
+package com.zoran.multithread.wait;
 
 import java.util.concurrent.locks.LockSupport;
 
