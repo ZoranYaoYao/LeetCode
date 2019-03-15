@@ -1,40 +1,36 @@
 package com.zoran;
 
-import java.util.ArrayList;
-import java.util.List;
+import java.util.*;
 
 public class Test {
 
-
-    private static int _10MB = 1 * 1024 * 1024;
-    private final Test2 t = new Test2();
-    //       private static final Test t;
-    private byte[] memory;
-
-    public Test(int size) {
-        memory = new byte[size];
-//            t = new Test(size);
-    }
-
     public static void main(String[] args) {
-        System.out.println("aa");
-        Test t3 = new Test(1 * _10MB);
-        t3 = null;
-//        Test t4 = new Test(1 * _10MB);
-//        t4 = null;
-//        Test t5 = new Test(1 * _10MB);
-//        t5 = null;
-//        Test t6 = new Test(1 * _10MB);
-//        t6 = null;
-
-        System.gc();
+        System.out.println(compress("Zaaa"));
     }
 
-    class Test2 {
-        private int _10MB = 1 * 1024 * 1024;
-        private byte[] memory = new byte[_10MB];
-    }
 
+    public static String compress(String s) {
+        HashMap<Character, Integer> map = new LinkedHashMap<>();
+        for (char c : s.toCharArray()) {
+            if (map.containsKey(c)) {
+                map.put(c, map.get(c) + 1);
+            } else {
+                map.put(c, 1);
+            }
+        }
+        int len = map.entrySet().size() * 2;
+        if (len > s.length()) {
+            return s;
+        }
+        StringBuilder sb = new StringBuilder(len);
+        int i = -1;
+        for (Map.Entry<Character, Integer> entry : map.entrySet()) {
+            sb.append(entry.getValue());
+            sb.append(entry.getKey());
+        }
+        return sb.toString();
+    }
 }
+
 
 

@@ -25,6 +25,11 @@ import java.util.function.BiFunction;
  *   https://www.toutiao.com/a6665069080048828936/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=
  *   1551932813&app=news_article&utm_source=weixin&iid=65380750003&utm_medium=toutiao_android&group_id=6665069080048828936
  *
+ *四.
+ *  HashMap 是否可以填入null key， HashTable 是否可以？
+ *  HashMap 可以放key=null, 因为源码把null的key设置成了hash=0，然后hash之后对应在索引为0的table中
+ *  HashTable 源码上看不能放key=null 并且value也不能放=null
+ *
  */
 public class HashMapTest {
 
@@ -37,7 +42,7 @@ public class HashMapTest {
 
     private static void methodTest(HashMap<Integer, Integer> map) {
         /** 增*/
-        map.put(null, -1); //map可以允许有一个null的key
+        map.put(null, -9999); //map可以允许有一个null的key
         System.out.println(map.get(null));
         map.put(1, 1);
         HashMap<Integer, Integer> map2 = new HashMap<>(); map2.put(2,2);
