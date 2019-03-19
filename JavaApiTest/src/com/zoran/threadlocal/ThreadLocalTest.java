@@ -19,4 +19,7 @@ package com.zoran.threadlocal;
  * 最后通过这个map去查找key为当前这个ThreadLocal，对应的value值。
  */
 public class ThreadLocalTest {
+
+
+
 }
