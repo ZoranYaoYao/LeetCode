@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eaf95abc-7041-4bd5-af02-9eaa40b3dc7d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/DataStructure/src/com/zoran/data/tree/B_Tree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaApiTest/src/com/zoran/B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/zoran/leetcode/medium6/Test277.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zoran/leetcode/medium6/Test278.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaApiTest/src/com/zoran/Test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaApiTest/src/com/zoran/Test1.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -44,7 +41,7 @@
           <entry key="fdsa" value="1" />
           <entry key="gitignore" value="1" />
           <entry key="iml" value="1" />
-          <entry key="java" value="1192" />
+          <entry key="java" value="1194" />
           <entry key="kt" value="1" />
           <entry key="xml" value="1" />
         </counts>
@@ -53,7 +50,7 @@
         <counts>
           <entry key="CLASS" value="30" />
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="1192" />
+          <entry key="JAVA" value="1194" />
           <entry key="Kotlin" value="1" />
           <entry key="PLAIN_TEXT" value="2" />
           <entry key="XML" value="1" />
@@ -63,13 +60,13 @@
         <counts>
           <entry key="dummy" value="93" />
           <entry key="gitignore" value="7" />
-          <entry key="java" value="101703" />
+          <entry key="java" value="102186" />
           <entry key="txt" value="27" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="101703" />
+          <entry key="JAVA" value="102186" />
           <entry key="PLAIN_TEXT" value="127" />
         </counts>
       </usages-collector>
@@ -84,23 +81,6 @@
               <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
               <folding>
                 <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/String.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="659" selection-start-line="659" selection-end-line="659" />
-              <folding>
-                <element signature="e#36393#36394#0" expanded="true" />
-                <element signature="e#36459#36460#0" expanded="true" />
-                <element signature="e#82971#82972#0" expanded="true" />
-                <element signature="e#83020#83021#0" expanded="true" />
-                <element signature="e#118405#118406#0" expanded="true" />
-                <element signature="e#118444#118445#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -139,20 +119,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/zoran/leetcode/medium6/Test277.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+            <state relative-caret-position="198">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/NumberFormatException.java">
+        <entry file="file://$PROJECT_DIR$/src/com/zoran/leetcode/simple2/Test44.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="648">
-              <caret line="63" column="33" selection-start-line="63" selection-start-column="33" selection-end-line="63" selection-end-column="33" />
+            <state relative-caret-position="89">
+              <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/zoran/leetcode/medium6/Test278.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -203,7 +192,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>HashEntry</find>
       <find>segment</find>
       <find>unsaf</find>
       <find>&quot;</find>
@@ -233,6 +221,7 @@
       <find>TestGCRoots03</find>
       <find>压缩字符串</find>
       <find>ThreadLocal</find>
+      <find>打</find>
     </findStrings>
     <replaceStrings>
       <replace>res =</replace>
@@ -262,7 +251,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/zoran/algorithm/define/sort/S7堆排序.java" />
         <option value="$PROJECT_DIR$/src/com/zoran/leetcode/simple6/Test238.java" />
         <option value="$PROJECT_DIR$/src/com/zoran/leetcode/simple6/Test239.java" />
         <option value="$PROJECT_DIR$/JVM/src/com.zoran.jvm/内存模型/本地方法栈.java" />
@@ -313,6 +301,7 @@
         <option value="$PROJECT_DIR$/JavaApiTest/src/com/zoran/Test1.java" />
         <option value="$PROJECT_DIR$/DataStructure/src/com/zoran/data/tree/B_Tree.java" />
         <option value="$PROJECT_DIR$/src/com/zoran/leetcode/medium6/Test277.java" />
+        <option value="$PROJECT_DIR$/src/com/zoran/leetcode/medium6/Test278.java" />
       </list>
     </option>
   </component>
@@ -322,10 +311,10 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="69" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="72" />
     <option name="y" value="23" />
-    <option name="width" value="806" />
+    <option name="width" value="804" />
     <option name="height" value="1027" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -393,7 +382,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="Integer&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/Integer.java&#10;Objec&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/Object.java&#10;Relock&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/ReentrantLock.java&#10;Atomin&#9;PSI&#9;JAVA://java.util.concurrent.atomic.AtomicInteger&#10;Unsafe&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/jre/lib/rt.jar!/sun/misc/Unsafe.class&#10;String&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/String.java&#10;ArrayDeque&#9;PSI&#9;JAVA://java.util.ArrayDeque&#10;Linkedli&#9;PSI&#9;JAVA://java.util.LinkedList&#10;Arrayde&#9;PSI&#9;JAVA://com.zoran.data.array.ArrayDequeTest&#10;Collections&#9;PSI&#9;JAVA://java.util.Collections&#10;ArrayList&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/ArrayList.java&#10;Thread&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/Thread.java&#10;Hashtab&#9;PSI&#9;JAVA://java.util.Hashtable&#10;AbstractQue&#9;PSI&#9;JAVA://java.util.concurrent.locks.AbstractQueuedSynchronizer&#10;Fu&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/concurrent/FutureTask.java&#10;arraydeque&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/ArrayDeque.java&#10;Obje&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/Object.java&#10;ClassLoader&#9;PSI&#9;JAVA://java.lang.ClassLoader&#10;Threadpoole&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/concurrent/ThreadPoolExecutor.java&#10;Arrali&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/ArrayList.java&#10;ThreadLoca&#9;PSI&#9;JAVA://java.lang.ThreadLocal&#10;Callable&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/concurrent/Callable.java&#10;FutureTask&#9;PSI&#9;JAVA://java.util.concurrent.FutureTask&#10;Syscl&#9;PSI&#9;JAVA://java.time.Clock.SystemClock&#10;SystemClock&#9;PSI&#9;JAVA://java.time.Clock.SystemClock&#10;HashMap&#9;FILE&#9;file:///Users/zoran/Eclipse_WorkSpace/LeetCode/DataStructure/src/com/zoran/data/map/HashMapTest.java&#10;Hashmap&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/HashMap.java&#10;Base64&#9;PSI&#9;JAVA://java.util.Base64&#10;Arrays&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/Arrays.java&#10;ReentrantLock&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/ReentrantLock.java&#10;Reentra&#9;PSI&#9;JAVA://com.zoran.data.array.juc.ReentrantLockTest&#10;HashTable&#9;PSI&#9;JAVA://java.util.Hashtable&#10;SparseArray&#9;PSI&#9;JAVA://com.zoran.data.array.SparseArrayTest&#10;Runtime&#9;PSI&#9;JAVA://java.lang.Runtime&#10;Queue&#9;PSI&#9;JAVA://java.util.Queue&#10;Number&#9;PSI&#9;JAVA://java.lang.Number&#10;SoftReference&#9;PSI&#9;JAVA://java.lang.ref.SoftReference&#10;Math&#9;PSI&#9;JAVA://java.lang.Math&#10;ThreadLocal&#9;PSI&#9;JAVA://java.lang.ThreadLocal&#10;ThreadPoolExecutor&#9;PSI&#9;JAVA://java.util.concurrent.ThreadPoolExecutor&#10;INte&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/concurrent/atomic/AtomicInteger.java&#10;Atomic&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/concurrent/atomic/AtomicInteger.java&#10;Condition&#9;PSI&#9;JAVA://java.util.concurrent.locks.Condition&#10;CyclicBarrier&#9;PSI&#9;JAVA://java.util.concurrent.CyclicBarrier&#10;Semaphore&#9;PSI&#9;JAVA://java.util.concurrent.Semaphore&#10;AtomicInteger&#9;PSI&#9;JAVA://java.util.concurrent.atomic.AtomicInteger&#10;Copyon&#9;PSI&#9;JAVA://com.zoran.data.list.CopyOnWriteArrayListTest&#10;Object&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/Object.java&#10;Observable&#9;PSI&#9;JAVA://java.util.Observable&#10;Iterator&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/Iterator.java" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553044898224" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553049860674" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -738,10 +727,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <frame x="72" y="23" width="1608" height="1027" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4989796" weight="0.17527087" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4989796" visible="true" weight="0.08492976" />
       <window_info id="Image Layers" order="1" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -921,24 +910,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/HashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="624" column="16" selection-start-line="624" selection-start-column="16" selection-end-line="624" selection-end-column="16" />
-          <folding>
-            <element signature="e#24329#24330#0" expanded="true" />
-            <element signature="e#24394#24395#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DataStructure/src/com/zoran/data/map/HashMapTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-11">
-          <caret line="14" column="10" lean-forward="true" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/Hashtable.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="282">
@@ -1300,8 +1271,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/zoran/leetcode/medium6/Test277.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+        <state relative-caret-position="198">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zoran/leetcode/simple2/Test44.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="89">
+          <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zoran/leetcode/medium6/Test278.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
         </state>
       </provider>
     </entry>
