@@ -4,9 +4,14 @@ import java.io.UnsupportedEncodingException;
 import java.util.Base64;
 
 /**
+ * Base64
+ *
+ * https://www.cnblogs.com/diligenceday/p/6002382.html base
  * https://blog.csdn.net/alex_81d/article/details/80997146
  *
- * 用于验证，不用于加密
+ * 作用：
+ * 在json格式中，不允许传递不可见字符。 所以这个时候需要将二进制转换成base64编码的格式！
+ *
  */
 public class Base64Test {
 
